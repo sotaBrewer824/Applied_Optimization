@@ -1,0 +1,2579 @@
+Start testing: Dec 15 14:47 CET
+----------------------------------------------------------
+1/66 Testing: EigenTutorial.MatrixInitialization_4x4_integers
+1/66 Test: EigenTutorial.MatrixInitialization_4x4_integers
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/EigenTutorial-test" "--gtest_filter=EigenTutorial.MatrixInitialization_4x4_integers" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/EigenTutorial
+"EigenTutorial.MatrixInitialization_4x4_integers" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = EigenTutorial.MatrixInitialization_4x4_integers
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from EigenTutorial
+[0;32m[ RUN      ] [mEigenTutorial.MatrixInitialization_4x4_integers
+[0;32m[       OK ] [mEigenTutorial.MatrixInitialization_4x4_integers (0 ms)
+[0;32m[----------] [m1 test from EigenTutorial (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"EigenTutorial.MatrixInitialization_4x4_integers" end time: Dec 15 14:47 CET
+"EigenTutorial.MatrixInitialization_4x4_integers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/66 Testing: EigenTutorial.VectorInitialization_column_3_doubles
+2/66 Test: EigenTutorial.VectorInitialization_column_3_doubles
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/EigenTutorial-test" "--gtest_filter=EigenTutorial.VectorInitialization_column_3_doubles" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/EigenTutorial
+"EigenTutorial.VectorInitialization_column_3_doubles" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = EigenTutorial.VectorInitialization_column_3_doubles
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from EigenTutorial
+[0;32m[ RUN      ] [mEigenTutorial.VectorInitialization_column_3_doubles
+[0;32m[       OK ] [mEigenTutorial.VectorInitialization_column_3_doubles (0 ms)
+[0;32m[----------] [m1 test from EigenTutorial (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EigenTutorial.VectorInitialization_column_3_doubles" end time: Dec 15 14:47 CET
+"EigenTutorial.VectorInitialization_column_3_doubles" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/66 Testing: EigenTutorial.VectorInitialization_row_5_floats
+3/66 Test: EigenTutorial.VectorInitialization_row_5_floats
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/EigenTutorial-test" "--gtest_filter=EigenTutorial.VectorInitialization_row_5_floats" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/EigenTutorial
+"EigenTutorial.VectorInitialization_row_5_floats" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = EigenTutorial.VectorInitialization_row_5_floats
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from EigenTutorial
+[0;32m[ RUN      ] [mEigenTutorial.VectorInitialization_row_5_floats
+[0;32m[       OK ] [mEigenTutorial.VectorInitialization_row_5_floats (0 ms)
+[0;32m[----------] [m1 test from EigenTutorial (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EigenTutorial.VectorInitialization_row_5_floats" end time: Dec 15 14:47 CET
+"EigenTutorial.VectorInitialization_row_5_floats" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/66 Testing: EigenTutorial.MatrixInitialization_dynamic_3x3_doubles
+4/66 Test: EigenTutorial.MatrixInitialization_dynamic_3x3_doubles
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/EigenTutorial-test" "--gtest_filter=EigenTutorial.MatrixInitialization_dynamic_3x3_doubles" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/EigenTutorial
+"EigenTutorial.MatrixInitialization_dynamic_3x3_doubles" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = EigenTutorial.MatrixInitialization_dynamic_3x3_doubles
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from EigenTutorial
+[0;32m[ RUN      ] [mEigenTutorial.MatrixInitialization_dynamic_3x3_doubles
+[0;32m[       OK ] [mEigenTutorial.MatrixInitialization_dynamic_3x3_doubles (0 ms)
+[0;32m[----------] [m1 test from EigenTutorial (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EigenTutorial.MatrixInitialization_dynamic_3x3_doubles" end time: Dec 15 14:47 CET
+"EigenTutorial.MatrixInitialization_dynamic_3x3_doubles" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/66 Testing: EigenTutorial.VectorInitialization_OnTheFly_column_float
+5/66 Test: EigenTutorial.VectorInitialization_OnTheFly_column_float
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/EigenTutorial-test" "--gtest_filter=EigenTutorial.VectorInitialization_OnTheFly_column_float" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/EigenTutorial
+"EigenTutorial.VectorInitialization_OnTheFly_column_float" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = EigenTutorial.VectorInitialization_OnTheFly_column_float
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from EigenTutorial
+[0;32m[ RUN      ] [mEigenTutorial.VectorInitialization_OnTheFly_column_float
+Could you please set the number of rows for 'vectorNf' variable?
+[0;32m[       OK ] [mEigenTutorial.VectorInitialization_OnTheFly_column_float (288 ms)
+[0;32m[----------] [m1 test from EigenTutorial (289 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (289 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"EigenTutorial.VectorInitialization_OnTheFly_column_float" end time: Dec 15 14:47 CET
+"EigenTutorial.VectorInitialization_OnTheFly_column_float" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/66 Testing: EigenTutorial.MatrixAssignment_dense
+6/66 Test: EigenTutorial.MatrixAssignment_dense
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/EigenTutorial-test" "--gtest_filter=EigenTutorial.MatrixAssignment_dense" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/EigenTutorial
+"EigenTutorial.MatrixAssignment_dense" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = EigenTutorial.MatrixAssignment_dense
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from EigenTutorial
+[0;32m[ RUN      ] [mEigenTutorial.MatrixAssignment_dense
+[0;32m[       OK ] [mEigenTutorial.MatrixAssignment_dense (0 ms)
+[0;32m[----------] [m1 test from EigenTutorial (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EigenTutorial.MatrixAssignment_dense" end time: Dec 15 14:47 CET
+"EigenTutorial.MatrixAssignment_dense" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/66 Testing: EigenTutorial.MatrixAssignment_sparse
+7/66 Test: EigenTutorial.MatrixAssignment_sparse
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/EigenTutorial-test" "--gtest_filter=EigenTutorial.MatrixAssignment_sparse" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/EigenTutorial
+"EigenTutorial.MatrixAssignment_sparse" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = EigenTutorial.MatrixAssignment_sparse
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from EigenTutorial
+[0;32m[ RUN      ] [mEigenTutorial.MatrixAssignment_sparse
+[0;32m[       OK ] [mEigenTutorial.MatrixAssignment_sparse (0 ms)
+[0;32m[----------] [m1 test from EigenTutorial (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EigenTutorial.MatrixAssignment_sparse" end time: Dec 15 14:47 CET
+"EigenTutorial.MatrixAssignment_sparse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/66 Testing: FunctionsTest.QuadraticFucntion2d
+8/66 Test: FunctionsTest.QuadraticFucntion2d
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GridSearch-test" "--gtest_filter=FunctionsTest.QuadraticFucntion2d" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GridSearch
+"FunctionsTest.QuadraticFucntion2d" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = FunctionsTest.QuadraticFucntion2d
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from FunctionsTest
+[0;32m[ RUN      ] [mFunctionsTest.QuadraticFucntion2d
+[0;32m[       OK ] [mFunctionsTest.QuadraticFucntion2d (0 ms)
+[0;32m[----------] [m1 test from FunctionsTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FunctionsTest.QuadraticFucntion2d" end time: Dec 15 14:47 CET
+"FunctionsTest.QuadraticFucntion2d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/66 Testing: FunctionsTest.QuadraticFucntionNd
+9/66 Test: FunctionsTest.QuadraticFucntionNd
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GridSearch-test" "--gtest_filter=FunctionsTest.QuadraticFucntionNd" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GridSearch
+"FunctionsTest.QuadraticFucntionNd" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = FunctionsTest.QuadraticFucntionNd
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from FunctionsTest
+[0;32m[ RUN      ] [mFunctionsTest.QuadraticFucntionNd
+[0;32m[       OK ] [mFunctionsTest.QuadraticFucntionNd (0 ms)
+[0;32m[----------] [m1 test from FunctionsTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FunctionsTest.QuadraticFucntionNd" end time: Dec 15 14:47 CET
+"FunctionsTest.QuadraticFucntionNd" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/66 Testing: FunctionsTest.NonConvexFunction2d
+10/66 Test: FunctionsTest.NonConvexFunction2d
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GridSearch-test" "--gtest_filter=FunctionsTest.NonConvexFunction2d" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GridSearch
+"FunctionsTest.NonConvexFunction2d" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = FunctionsTest.NonConvexFunction2d
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from FunctionsTest
+[0;32m[ RUN      ] [mFunctionsTest.NonConvexFunction2d
+[0;32m[       OK ] [mFunctionsTest.NonConvexFunction2d (0 ms)
+[0;32m[----------] [m1 test from FunctionsTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FunctionsTest.NonConvexFunction2d" end time: Dec 15 14:47 CET
+"FunctionsTest.NonConvexFunction2d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/66 Testing: GridSearchTests.Grid2dFunction2dGridSearch
+11/66 Test: GridSearchTests.Grid2dFunction2dGridSearch
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GridSearch-test" "--gtest_filter=GridSearchTests.Grid2dFunction2dGridSearch" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GridSearch
+"GridSearchTests.Grid2dFunction2dGridSearch" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = GridSearchTests.Grid2dFunction2dGridSearch
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from GridSearchTests
+[0;32m[ RUN      ] [mGridSearchTests.Grid2dFunction2dGridSearch
+Grid searching the minimum of a 2-D function...
+Minimum value of the function is: -0.38 at x:
+-0.2
+  -1
+[0;32m[       OK ] [mGridSearchTests.Grid2dFunction2dGridSearch (0 ms)
+[0;32m[----------] [m1 test from GridSearchTests (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GridSearchTests.Grid2dFunction2dGridSearch" end time: Dec 15 14:47 CET
+"GridSearchTests.Grid2dFunction2dGridSearch" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/66 Testing: GridSearchTests.Grid5dFunction5dGridSearch
+12/66 Test: GridSearchTests.Grid5dFunction5dGridSearch
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GridSearch-test" "--gtest_filter=GridSearchTests.Grid5dFunction5dGridSearch" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GridSearch
+"GridSearchTests.Grid5dFunction5dGridSearch" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = GridSearchTests.Grid5dFunction5dGridSearch
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from GridSearchTests
+[0;32m[ RUN      ] [mGridSearchTests.Grid5dFunction5dGridSearch
+Grid searching the minimum of a 5-D function...
+Minimum value of the function is: -241.49 at x:
+      3
+      3
+1.09091
+      3
+      3
+[0;32m[       OK ] [mGridSearchTests.Grid5dFunction5dGridSearch (13 ms)
+[0;32m[----------] [m1 test from GridSearchTests (13 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (13 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"GridSearchTests.Grid5dFunction5dGridSearch" end time: Dec 15 14:47 CET
+"GridSearchTests.Grid5dFunction5dGridSearch" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/66 Testing: GridSearchTests.Grid7dFunction7dGridSearch
+13/66 Test: GridSearchTests.Grid7dFunction7dGridSearch
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GridSearch-test" "--gtest_filter=GridSearchTests.Grid7dFunction7dGridSearch" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GridSearch
+"GridSearchTests.Grid7dFunction7dGridSearch" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = GridSearchTests.Grid7dFunction7dGridSearch
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from GridSearchTests
+[0;32m[ RUN      ] [mGridSearchTests.Grid7dFunction7dGridSearch
+Grid searching the minimum of a 7-D function...
+Minimum value of the function is: -24.6224 at x:
+      -0
+       2
+      -0
+      -0
+       2
+0.571429
+      -0
+[0;32m[       OK ] [mGridSearchTests.Grid7dFunction7dGridSearch (86 ms)
+[0;32m[----------] [m1 test from GridSearchTests (86 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (86 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"GridSearchTests.Grid7dFunction7dGridSearch" end time: Dec 15 14:47 CET
+"GridSearchTests.Grid7dFunction7dGridSearch" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/66 Testing: ConvexityTest.Quadratic2DisConvex
+14/66 Test: ConvexityTest.Quadratic2DisConvex
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/ConvexityTests-test" "--gtest_filter=ConvexityTest.Quadratic2DisConvex" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/ConvexityTests
+"ConvexityTest.Quadratic2DisConvex" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = ConvexityTest.Quadratic2DisConvex
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from ConvexityTest
+[0;32m[ RUN      ] [mConvexityTest.Quadratic2DisConvex
+Processed 100000 pairs of points ...
+Processed 200000 pairs of points ...
+Processed 300000 pairs of points ...
+Processed 400000 pairs of points ...
+Processed 500000 pairs of points ...
+Processed 600000 pairs of points ...
+Processed 700000 pairs of points ...
+Processed 800000 pairs of points ...
+Processed 900000 pairs of points ...
+Processed 1000000 pairs of points ...
+[0;32m[       OK ] [mConvexityTest.Quadratic2DisConvex (391 ms)
+[0;32m[----------] [m1 test from ConvexityTest (391 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (391 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"ConvexityTest.Quadratic2DisConvex" end time: Dec 15 14:47 CET
+"ConvexityTest.Quadratic2DisConvex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/66 Testing: ConvexityTest.QuadraticNDisConvex
+15/66 Test: ConvexityTest.QuadraticNDisConvex
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/ConvexityTests-test" "--gtest_filter=ConvexityTest.QuadraticNDisConvex" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/ConvexityTests
+"ConvexityTest.QuadraticNDisConvex" start time: Dec 15 14:47 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = ConvexityTest.QuadraticNDisConvex
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from ConvexityTest
+[0;32m[ RUN      ] [mConvexityTest.QuadraticNDisConvex
+initialize random QP problem with 4 unknowns... 
+done!
+Processed 100000 pairs of points ...
+Processed 200000 pairs of points ...
+Processed 300000 pairs of points ...
+Processed 400000 pairs of points ...
+Processed 500000 pairs of points ...
+Processed 600000 pairs of points ...
+Processed 700000 pairs of points ...
+Processed 800000 pairs of points ...
+Processed 900000 pairs of points ...
+Processed 1000000 pairs of points ...
+[0;32m[       OK ] [mConvexityTest.QuadraticNDisConvex (1451 ms)
+[0;32m[----------] [m1 test from ConvexityTest (1451 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (1451 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   1.45 sec
+----------------------------------------------------------
+Test Passed.
+"ConvexityTest.QuadraticNDisConvex" end time: Dec 15 14:48 CET
+"ConvexityTest.QuadraticNDisConvex" time elapsed: 00:00:01
+----------------------------------------------------------
+
+16/66 Testing: ConvexityTest.OtherQuadraticNDisConvex
+16/66 Test: ConvexityTest.OtherQuadraticNDisConvex
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/ConvexityTests-test" "--gtest_filter=ConvexityTest.OtherQuadraticNDisConvex" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/ConvexityTests
+"ConvexityTest.OtherQuadraticNDisConvex" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = ConvexityTest.OtherQuadraticNDisConvex
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from ConvexityTest
+[0;32m[ RUN      ] [mConvexityTest.OtherQuadraticNDisConvex
+initialize random QP problem with 6 unknowns... 
+done!
+Processed 100000 pairs of points ...
+Processed 200000 pairs of points ...
+Processed 300000 pairs of points ...
+Processed 400000 pairs of points ...
+Processed 500000 pairs of points ...
+Processed 600000 pairs of points ...
+Processed 700000 pairs of points ...
+Processed 800000 pairs of points ...
+Processed 900000 pairs of points ...
+Processed 1000000 pairs of points ...
+[0;32m[       OK ] [mConvexityTest.OtherQuadraticNDisConvex (846 ms)
+[0;32m[----------] [m1 test from ConvexityTest (846 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (846 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.85 sec
+----------------------------------------------------------
+Test Passed.
+"ConvexityTest.OtherQuadraticNDisConvex" end time: Dec 15 14:48 CET
+"ConvexityTest.OtherQuadraticNDisConvex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/66 Testing: ConvexityTest.YetAnotherQuadraticNDisConvex
+17/66 Test: ConvexityTest.YetAnotherQuadraticNDisConvex
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/ConvexityTests-test" "--gtest_filter=ConvexityTest.YetAnotherQuadraticNDisConvex" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/ConvexityTests
+"ConvexityTest.YetAnotherQuadraticNDisConvex" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = ConvexityTest.YetAnotherQuadraticNDisConvex
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from ConvexityTest
+[0;32m[ RUN      ] [mConvexityTest.YetAnotherQuadraticNDisConvex
+initialize random QP problem with 8 unknowns... 
+done!
+Processed 100000 pairs of points ...
+Processed 200000 pairs of points ...
+Processed 300000 pairs of points ...
+Processed 400000 pairs of points ...
+Processed 500000 pairs of points ...
+Processed 600000 pairs of points ...
+Processed 700000 pairs of points ...
+Processed 800000 pairs of points ...
+Processed 900000 pairs of points ...
+Processed 1000000 pairs of points ...
+[0;32m[       OK ] [mConvexityTest.YetAnotherQuadraticNDisConvex (805 ms)
+[0;32m[----------] [m1 test from ConvexityTest (805 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (805 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.81 sec
+----------------------------------------------------------
+Test Passed.
+"ConvexityTest.YetAnotherQuadraticNDisConvex" end time: Dec 15 14:48 CET
+"ConvexityTest.YetAnotherQuadraticNDisConvex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/66 Testing: ConvexityTest.NonConvex2DIsConvexOnCertainInterval
+18/66 Test: ConvexityTest.NonConvex2DIsConvexOnCertainInterval
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/ConvexityTests-test" "--gtest_filter=ConvexityTest.NonConvex2DIsConvexOnCertainInterval" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/ConvexityTests
+"ConvexityTest.NonConvex2DIsConvexOnCertainInterval" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = ConvexityTest.NonConvex2DIsConvexOnCertainInterval
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from ConvexityTest
+[0;32m[ RUN      ] [mConvexityTest.NonConvex2DIsConvexOnCertainInterval
+Processed 100000 pairs of points ...
+Processed 200000 pairs of points ...
+Processed 300000 pairs of points ...
+Processed 400000 pairs of points ...
+Processed 500000 pairs of points ...
+Processed 600000 pairs of points ...
+Processed 700000 pairs of points ...
+Processed 800000 pairs of points ...
+Processed 900000 pairs of points ...
+Processed 1000000 pairs of points ...
+[0;32m[       OK ] [mConvexityTest.NonConvex2DIsConvexOnCertainInterval (326 ms)
+[0;32m[----------] [m1 test from ConvexityTest (326 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (326 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"ConvexityTest.NonConvex2DIsConvexOnCertainInterval" end time: Dec 15 14:48 CET
+"ConvexityTest.NonConvex2DIsConvexOnCertainInterval" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/66 Testing: ConvexityTest.NonConvex2DIsNonConvexOnOtherInterval
+19/66 Test: ConvexityTest.NonConvex2DIsNonConvexOnOtherInterval
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/ConvexityTests-test" "--gtest_filter=ConvexityTest.NonConvex2DIsNonConvexOnOtherInterval" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/ConvexityTests
+"ConvexityTest.NonConvex2DIsNonConvexOnOtherInterval" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = ConvexityTest.NonConvex2DIsNonConvexOnOtherInterval
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from ConvexityTest
+[0;32m[ RUN      ] [mConvexityTest.NonConvex2DIsNonConvexOnOtherInterval
+Function non convexity detected: f(p) = 200.535 > (1 - t)*f(p1) + t*f(p2) = 195.84. Difference is: 4.69514
+path: p(t) = (1 - t) * p1 + t * p2; 
+with:
+  p1 = (4.32201 9.76759)
+  p2 = (4.40987 8.25155)
+  p (t = 0.1) = ( 4.3308 9.61598)
+[0;32m[       OK ] [mConvexityTest.NonConvex2DIsNonConvexOnOtherInterval (0 ms)
+[0;32m[----------] [m1 test from ConvexityTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConvexityTest.NonConvex2DIsNonConvexOnOtherInterval" end time: Dec 15 14:48 CET
+"ConvexityTest.NonConvex2DIsNonConvexOnOtherInterval" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/66 Testing: ConvexityTest.NonConvex2DIsNonConvexOnYetAnotherInterval
+20/66 Test: ConvexityTest.NonConvex2DIsNonConvexOnYetAnotherInterval
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/ConvexityTests-test" "--gtest_filter=ConvexityTest.NonConvex2DIsNonConvexOnYetAnotherInterval" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/ConvexityTests
+"ConvexityTest.NonConvex2DIsNonConvexOnYetAnotherInterval" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = ConvexityTest.NonConvex2DIsNonConvexOnYetAnotherInterval
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from ConvexityTest
+[0;32m[ RUN      ] [mConvexityTest.NonConvex2DIsNonConvexOnYetAnotherInterval
+Function non convexity detected: f(p) = 13144.2 > (1 - t)*f(p1) + t*f(p2) = 13116.8. Difference is: 27.4349
+path: p(t) = (1 - t) * p1 + t * p2; 
+with:
+  p1 = ( 11.259 12.1021)
+  p2 = (10.5122 10.3644)
+  p (t = 0.1) = (11.1843 11.9283)
+[0;32m[       OK ] [mConvexityTest.NonConvex2DIsNonConvexOnYetAnotherInterval (0 ms)
+[0;32m[----------] [m1 test from ConvexityTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConvexityTest.NonConvex2DIsNonConvexOnYetAnotherInterval" end time: Dec 15 14:48 CET
+"ConvexityTest.NonConvex2DIsNonConvexOnYetAnotherInterval" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/66 Testing: MassSpringSystem.ProblemSetup
+21/66 Test: MassSpringSystem.ProblemSetup
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/MassSpringProblemEvaluation-test" "--gtest_filter=MassSpringSystem.ProblemSetup" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/MassSpringProblemEvaluation
+"MassSpringSystem.ProblemSetup" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringSystem.ProblemSetup
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringSystem
+[0;32m[ RUN      ] [mMassSpringSystem.ProblemSetup
+[0;32m[       OK ] [mMassSpringSystem.ProblemSetup (0 ms)
+[0;32m[----------] [m1 test from MassSpringSystem (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringSystem.ProblemSetup" end time: Dec 15 14:48 CET
+"MassSpringSystem.ProblemSetup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/66 Testing: SpringElements.SpringElement2DFunctions
+22/66 Test: SpringElements.SpringElement2DFunctions
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/MassSpringProblemEvaluation-test" "--gtest_filter=SpringElements.SpringElement2DFunctions" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/MassSpringProblemEvaluation
+"SpringElements.SpringElement2DFunctions" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = SpringElements.SpringElement2DFunctions
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from SpringElements
+[0;32m[ RUN      ] [mSpringElements.SpringElement2DFunctions
+[0;32m[       OK ] [mSpringElements.SpringElement2DFunctions (0 ms)
+[0;32m[----------] [m1 test from SpringElements (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SpringElements.SpringElement2DFunctions" end time: Dec 15 14:48 CET
+"SpringElements.SpringElement2DFunctions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/66 Testing: SpringElements.SpringElement2DWithLengthFunctions
+23/66 Test: SpringElements.SpringElement2DWithLengthFunctions
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/MassSpringProblemEvaluation-test" "--gtest_filter=SpringElements.SpringElement2DWithLengthFunctions" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/MassSpringProblemEvaluation
+"SpringElements.SpringElement2DWithLengthFunctions" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = SpringElements.SpringElement2DWithLengthFunctions
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from SpringElements
+[0;32m[ RUN      ] [mSpringElements.SpringElement2DWithLengthFunctions
+[0;32m[       OK ] [mSpringElements.SpringElement2DWithLengthFunctions (0 ms)
+[0;32m[----------] [m1 test from SpringElements (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SpringElements.SpringElement2DWithLengthFunctions" end time: Dec 15 14:48 CET
+"SpringElements.SpringElement2DWithLengthFunctions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/66 Testing: MassSpringProblem.MassSpringProblem2DDenseFunctions
+24/66 Test: MassSpringProblem.MassSpringProblem2DDenseFunctions
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/MassSpringProblemEvaluation-test" "--gtest_filter=MassSpringProblem.MassSpringProblem2DDenseFunctions" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/MassSpringProblemEvaluation
+"MassSpringProblem.MassSpringProblem2DDenseFunctions" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringProblem.MassSpringProblem2DDenseFunctions
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringProblem
+[0;32m[ RUN      ] [mMassSpringProblem.MassSpringProblem2DDenseFunctions
+[0;32m[       OK ] [mMassSpringProblem.MassSpringProblem2DDenseFunctions (0 ms)
+[0;32m[----------] [m1 test from MassSpringProblem (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringProblem.MassSpringProblem2DDenseFunctions" end time: Dec 15 14:48 CET
+"MassSpringProblem.MassSpringProblem2DDenseFunctions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/66 Testing: MassSpringProblem.MassSpringProblem2DSparseFunctions
+25/66 Test: MassSpringProblem.MassSpringProblem2DSparseFunctions
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/MassSpringProblemEvaluation-test" "--gtest_filter=MassSpringProblem.MassSpringProblem2DSparseFunctions" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/MassSpringProblemEvaluation
+"MassSpringProblem.MassSpringProblem2DSparseFunctions" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringProblem.MassSpringProblem2DSparseFunctions
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringProblem
+[0;32m[ RUN      ] [mMassSpringProblem.MassSpringProblem2DSparseFunctions
+[0;32m[       OK ] [mMassSpringProblem.MassSpringProblem2DSparseFunctions (0 ms)
+[0;32m[----------] [m1 test from MassSpringProblem (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringProblem.MassSpringProblem2DSparseFunctions" end time: Dec 15 14:48 CET
+"MassSpringProblem.MassSpringProblem2DSparseFunctions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/66 Testing: MassSpringProblem.MassSpringProblem2DSparseCheckDerivative
+26/66 Test: MassSpringProblem.MassSpringProblem2DSparseCheckDerivative
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/MassSpringProblemEvaluation-test" "--gtest_filter=MassSpringProblem.MassSpringProblem2DSparseCheckDerivative" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/MassSpringProblemEvaluation
+"MassSpringProblem.MassSpringProblem2DSparseCheckDerivative" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringProblem.MassSpringProblem2DSparseCheckDerivative
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringProblem
+[0;32m[ RUN      ] [mMassSpringProblem.MassSpringProblem2DSparseCheckDerivative
+############## Gradient Checker Summary #############
+#ok   : 25
+#error: 0
+############## Hessian Checker Summary #############
+#ok   : 625
+#error: 0
+[0;32m[       OK ] [mMassSpringProblem.MassSpringProblem2DSparseCheckDerivative (0 ms)
+[0;32m[----------] [m1 test from MassSpringProblem (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringProblem.MassSpringProblem2DSparseCheckDerivative" end time: Dec 15 14:48 CET
+"MassSpringProblem.MassSpringProblem2DSparseCheckDerivative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/66 Testing: MassSpringSystem.EnergyComputation
+27/66 Test: MassSpringSystem.EnergyComputation
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/MassSpringProblemEvaluation-test" "--gtest_filter=MassSpringSystem.EnergyComputation" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/MassSpringProblemEvaluation
+"MassSpringSystem.EnergyComputation" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringSystem.EnergyComputation
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringSystem
+[0;32m[ RUN      ] [mMassSpringSystem.EnergyComputation
+[0;32m[       OK ] [mMassSpringSystem.EnergyComputation (0 ms)
+[0;32m[----------] [m1 test from MassSpringSystem (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringSystem.EnergyComputation" end time: Dec 15 14:48 CET
+"MassSpringSystem.EnergyComputation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/66 Testing: MassSpringSystem.DenseVersusSparseSpeedComparison
+28/66 Test: MassSpringSystem.DenseVersusSparseSpeedComparison
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/MassSpringProblemEvaluation-test" "--gtest_filter=MassSpringSystem.DenseVersusSparseSpeedComparison" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/MassSpringProblemEvaluation
+"MassSpringSystem.DenseVersusSparseSpeedComparison" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringSystem.DenseVersusSparseSpeedComparison
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringSystem
+[0;32m[ RUN      ] [mMassSpringSystem.DenseVersusSparseSpeedComparison
+Comparing hessian computation time for a 100x100 MassSpring system...
+ ===> DENSE vs. SPARSE comparison: 0.494s vs. 0.005s
+[0;32m[       OK ] [mMassSpringSystem.DenseVersusSparseSpeedComparison (520 ms)
+[0;32m[----------] [m1 test from MassSpringSystem (520 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (520 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.52 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringSystem.DenseVersusSparseSpeedComparison" end time: Dec 15 14:48 CET
+"MassSpringSystem.DenseVersusSparseSpeedComparison" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/66 Testing: ConstrainedSpringElement.CheckFunctions
+29/66 Test: ConstrainedSpringElement.CheckFunctions
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GradientDescent-test" "--gtest_filter=ConstrainedSpringElement.CheckFunctions" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GradientDescent
+"ConstrainedSpringElement.CheckFunctions" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = ConstrainedSpringElement.CheckFunctions
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from ConstrainedSpringElement
+[0;32m[ RUN      ] [mConstrainedSpringElement.CheckFunctions
+[0;32m[       OK ] [mConstrainedSpringElement.CheckFunctions (0 ms)
+[0;32m[----------] [m1 test from ConstrainedSpringElement (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"ConstrainedSpringElement.CheckFunctions" end time: Dec 15 14:48 CET
+"ConstrainedSpringElement.CheckFunctions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/66 Testing: MassSpringProblem.CheckFunctionForScenario1
+30/66 Test: MassSpringProblem.CheckFunctionForScenario1
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GradientDescent-test" "--gtest_filter=MassSpringProblem.CheckFunctionForScenario1" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GradientDescent
+"MassSpringProblem.CheckFunctionForScenario1" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringProblem.CheckFunctionForScenario1
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringProblem
+[0;32m[ RUN      ] [mMassSpringProblem.CheckFunctionForScenario1
+[0;32m[       OK ] [mMassSpringProblem.CheckFunctionForScenario1 (0 ms)
+[0;32m[----------] [m1 test from MassSpringProblem (1 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (1 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringProblem.CheckFunctionForScenario1" end time: Dec 15 14:48 CET
+"MassSpringProblem.CheckFunctionForScenario1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/66 Testing: MassSpringProblem.CheckFunctionForScenario2
+31/66 Test: MassSpringProblem.CheckFunctionForScenario2
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GradientDescent-test" "--gtest_filter=MassSpringProblem.CheckFunctionForScenario2" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GradientDescent
+"MassSpringProblem.CheckFunctionForScenario2" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringProblem.CheckFunctionForScenario2
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringProblem
+[0;32m[ RUN      ] [mMassSpringProblem.CheckFunctionForScenario2
+[0;32m[       OK ] [mMassSpringProblem.CheckFunctionForScenario2 (0 ms)
+[0;32m[----------] [m1 test from MassSpringProblem (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringProblem.CheckFunctionForScenario2" end time: Dec 15 14:48 CET
+"MassSpringProblem.CheckFunctionForScenario2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/66 Testing: MassSpringProblem.CheckGradient
+32/66 Test: MassSpringProblem.CheckGradient
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GradientDescent-test" "--gtest_filter=MassSpringProblem.CheckGradient" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GradientDescent
+"MassSpringProblem.CheckGradient" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringProblem.CheckGradient
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringProblem
+[0;32m[ RUN      ] [mMassSpringProblem.CheckGradient
+############## Gradient Checker Summary #############
+#ok   : 72
+#error: 0
+[0;32m[       OK ] [mMassSpringProblem.CheckGradient (0 ms)
+[0;32m[----------] [m1 test from MassSpringProblem (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringProblem.CheckGradient" end time: Dec 15 14:48 CET
+"MassSpringProblem.CheckGradient" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/66 Testing: LineSearch.CheckBackTrackingLineSearch
+33/66 Test: LineSearch.CheckBackTrackingLineSearch
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GradientDescent-test" "--gtest_filter=LineSearch.CheckBackTrackingLineSearch" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GradientDescent
+"LineSearch.CheckBackTrackingLineSearch" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = LineSearch.CheckBackTrackingLineSearch
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from LineSearch
+[0;32m[ RUN      ] [mLineSearch.CheckBackTrackingLineSearch
+[0;32m[       OK ] [mLineSearch.CheckBackTrackingLineSearch (0 ms)
+[0;32m[----------] [m1 test from LineSearch (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LineSearch.CheckBackTrackingLineSearch" end time: Dec 15 14:48 CET
+"LineSearch.CheckBackTrackingLineSearch" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/66 Testing: GradientDescent.CheckAlgorithmOnSpringElementWithoutLength
+34/66 Test: GradientDescent.CheckAlgorithmOnSpringElementWithoutLength
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GradientDescent-test" "--gtest_filter=GradientDescent.CheckAlgorithmOnSpringElementWithoutLength" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GradientDescent
+"GradientDescent.CheckAlgorithmOnSpringElementWithoutLength" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = GradientDescent.CheckAlgorithmOnSpringElementWithoutLength
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from GradientDescent
+[0;32m[ RUN      ] [mGradientDescent.CheckAlgorithmOnSpringElementWithoutLength
+******** Gradient Descent ********
+iter: 1   obj = 1   ||g||^2 = 4
+iter: 2   obj = 0.0244141   ||g||^2 = 0.0976562
+iter: 3   obj = 0.000596046   ||g||^2 = 0.00238419
+iter: 4   obj = 1.45519e-05   ||g||^2 = 5.82077e-05
+iter: 5   obj = 3.55271e-07   ||g||^2 = 1.42109e-06
+iter: 6   obj = 8.67362e-09   ||g||^2 = 3.46945e-08
+iter: 7   obj = 2.11758e-10   ||g||^2 = 8.47033e-10
+[0;32m[       OK ] [mGradientDescent.CheckAlgorithmOnSpringElementWithoutLength (0 ms)
+[0;32m[----------] [m1 test from GradientDescent (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GradientDescent.CheckAlgorithmOnSpringElementWithoutLength" end time: Dec 15 14:48 CET
+"GradientDescent.CheckAlgorithmOnSpringElementWithoutLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/66 Testing: GradientDescent.CheckAlgorithmOnSpringElementWithLength
+35/66 Test: GradientDescent.CheckAlgorithmOnSpringElementWithLength
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GradientDescent-test" "--gtest_filter=GradientDescent.CheckAlgorithmOnSpringElementWithLength" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GradientDescent
+"GradientDescent.CheckAlgorithmOnSpringElementWithLength" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = GradientDescent.CheckAlgorithmOnSpringElementWithLength
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from GradientDescent
+[0;32m[ RUN      ] [mGradientDescent.CheckAlgorithmOnSpringElementWithLength
+******** Gradient Descent ********
+iter: 1   obj = 70312.5   ||g||^2 = 4.5e+08
+iter: 2   obj = 9841.37   ||g||^2 = 2.60277e+07
+iter: 3   obj = 1360.77   ||g||^2 = 1.68013e+06
+iter: 4   obj = 113.942   ||g||^2 = 73097.6
+iter: 5   obj = 9.70645   ||g||^2 = 4566.85
+iter: 6   obj = 0.0174225   ||g||^2 = 7.02104
+iter: 7   obj = 0.000388742   ||g||^2 = 0.15567
+iter: 8   obj = 9.17157e-06   ||g||^2 = 0.00366925
+iter: 9   obj = 2.18161e-07   ||g||^2 = 8.72667e-05
+iter: 10   obj = 5.19582e-09   ||g||^2 = 2.07834e-06
+iter: 11   obj = 1.2377e-10   ||g||^2 = 4.95081e-08
+iter: 12   obj = 2.94842e-12   ||g||^2 = 1.17937e-09
+[0;32m[       OK ] [mGradientDescent.CheckAlgorithmOnSpringElementWithLength (0 ms)
+[0;32m[----------] [m1 test from GradientDescent (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GradientDescent.CheckAlgorithmOnSpringElementWithLength" end time: Dec 15 14:48 CET
+"GradientDescent.CheckAlgorithmOnSpringElementWithLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/66 Testing: GradientDescent.CheckAlgorithmOnConstrainedSpringElement
+36/66 Test: GradientDescent.CheckAlgorithmOnConstrainedSpringElement
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GradientDescent-test" "--gtest_filter=GradientDescent.CheckAlgorithmOnConstrainedSpringElement" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GradientDescent
+"GradientDescent.CheckAlgorithmOnConstrainedSpringElement" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = GradientDescent.CheckAlgorithmOnConstrainedSpringElement
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from GradientDescent
+[0;32m[ RUN      ] [mGradientDescent.CheckAlgorithmOnConstrainedSpringElement
+******** Gradient Descent ********
+iter: 1   obj = 1010   ||g||^2 = 20200
+iter: 2   obj = 62.6981   ||g||^2 = 1253.96
+iter: 3   obj = 3.89213   ||g||^2 = 77.8425
+iter: 4   obj = 0.241613   ||g||^2 = 4.83225
+iter: 5   obj = 0.0149987   ||g||^2 = 0.299973
+iter: 6   obj = 0.000931076   ||g||^2 = 0.0186215
+iter: 7   obj = 5.77986e-05   ||g||^2 = 0.00115597
+iter: 8   obj = 3.58798e-06   ||g||^2 = 7.17597e-05
+iter: 9   obj = 2.22732e-07   ||g||^2 = 4.45465e-06
+iter: 10   obj = 1.38266e-08   ||g||^2 = 2.76532e-07
+iter: 11   obj = 8.58319e-10   ||g||^2 = 1.71664e-08
+iter: 12   obj = 5.32821e-11   ||g||^2 = 1.06564e-09
+[0;32m[       OK ] [mGradientDescent.CheckAlgorithmOnConstrainedSpringElement (0 ms)
+[0;32m[----------] [m1 test from GradientDescent (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"GradientDescent.CheckAlgorithmOnConstrainedSpringElement" end time: Dec 15 14:48 CET
+"GradientDescent.CheckAlgorithmOnConstrainedSpringElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/66 Testing: SpringElement2DWithLengthPSDHess.CheckHessian
+37/66 Test: SpringElement2DWithLengthPSDHess.CheckHessian
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/NewtonMethods-test" "--gtest_filter=SpringElement2DWithLengthPSDHess.CheckHessian" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/NewtonMethods
+"SpringElement2DWithLengthPSDHess.CheckHessian" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = SpringElement2DWithLengthPSDHess.CheckHessian
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from SpringElement2DWithLengthPSDHess
+[0;32m[ RUN      ] [mSpringElement2DWithLengthPSDHess.CheckHessian
+[0;32m[       OK ] [mSpringElement2DWithLengthPSDHess.CheckHessian (0 ms)
+[0;32m[----------] [m1 test from SpringElement2DWithLengthPSDHess (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SpringElement2DWithLengthPSDHess.CheckHessian" end time: Dec 15 14:48 CET
+"SpringElement2DWithLengthPSDHess.CheckHessian" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/66 Testing: StandardNewton.CheckAlgorithm
+38/66 Test: StandardNewton.CheckAlgorithm
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/NewtonMethods-test" "--gtest_filter=StandardNewton.CheckAlgorithm" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/NewtonMethods
+"StandardNewton.CheckAlgorithm" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = StandardNewton.CheckAlgorithm
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from StandardNewton
+[0;32m[ RUN      ] [mStandardNewton.CheckAlgorithm
+******** Newton Method ********
+iter: 1   obj = 20200   ||lambda||^2 = 40400
+iter: 2   obj = 0   ||lambda||^2 = 0
+x: 0 0
+[0;32m[       OK ] [mStandardNewton.CheckAlgorithm (0 ms)
+[0;32m[----------] [m1 test from StandardNewton (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StandardNewton.CheckAlgorithm" end time: Dec 15 14:48 CET
+"StandardNewton.CheckAlgorithm" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/66 Testing: ProjectedNewton.CheckAlgorithmOnSpringElementWithoutLength
+39/66 Test: ProjectedNewton.CheckAlgorithmOnSpringElementWithoutLength
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/NewtonMethods-test" "--gtest_filter=ProjectedNewton.CheckAlgorithmOnSpringElementWithoutLength" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/NewtonMethods
+"ProjectedNewton.CheckAlgorithmOnSpringElementWithoutLength" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = ProjectedNewton.CheckAlgorithmOnSpringElementWithoutLength
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from ProjectedNewton
+[0;32m[ RUN      ] [mProjectedNewton.CheckAlgorithmOnSpringElementWithoutLength
+******** Newton Method with projected hessian ********
+ H = 1 0 -1 0 
+0 1 0 -1 
+-1 0 1 0 
+0 -1 0 1 
+
+ psd: 0
+iter: 1   obj = 1   ||lambda||^2 = 1.999   n_projection_steps = 1
+ H = 1 0 -1 0 
+0 1 0 -1 
+-1 0 1 0 
+0 -1 0 1 
+
+ psd: 0
+iter: 2   obj = 2.4975e-07   ||lambda||^2 = 4.99251e-07   n_projection_steps = 1
+ H = 1 0 -1 0 
+0 1 0 -1 
+-1 0 1 0 
+0 -1 0 1 
+
+ psd: 0
+iter: 3   obj = 6.23752e-14   ||lambda||^2 = 1.24688e-13   n_projection_steps = 1
+[0;32m[       OK ] [mProjectedNewton.CheckAlgorithmOnSpringElementWithoutLength (0 ms)
+[0;32m[----------] [m1 test from ProjectedNewton (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ProjectedNewton.CheckAlgorithmOnSpringElementWithoutLength" end time: Dec 15 14:48 CET
+"ProjectedNewton.CheckAlgorithmOnSpringElementWithoutLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/66 Testing: ProjectedNewton.CheckAlgorithmOnSpringElementWithLength
+40/66 Test: ProjectedNewton.CheckAlgorithmOnSpringElementWithLength
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/NewtonMethods-test" "--gtest_filter=ProjectedNewton.CheckAlgorithmOnSpringElementWithLength" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/NewtonMethods
+"ProjectedNewton.CheckAlgorithmOnSpringElementWithLength" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = ProjectedNewton.CheckAlgorithmOnSpringElementWithLength
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from ProjectedNewton
+[0;32m[ RUN      ] [mProjectedNewton.CheckAlgorithmOnSpringElementWithLength
+******** Newton Method with projected hessian ********
+ H = 2350 0 -2350 0 
+0 750 0 -750 
+-2350 0 2350 0 
+0 -750 0 750 
+
+ psd: 0
+iter: 1   obj = 70312.5   ||lambda||^2 = 95713.1   n_projection_steps = 1
+ H = 1062.88 0 -1062.88 0 
+0 320.961 0 -320.961 
+-1062.88 0 1062.88 0 
+0 -320.961 0 320.961 
+
+ psd: 0
+iter: 2   obj = 12877   ||lambda||^2 = 17971.2   n_projection_steps = 1
+ H = 492.397 0 -492.397 0 
+0 130.799 0 -130.799 
+-492.397 0 492.397 0 
+0 -130.799 0 130.799 
+
+ psd: 0
+iter: 3   obj = 2138.55   ||lambda||^2 = 3139.95   n_projection_steps = 1
+ H = 242.576 0 -242.576 0 
+0 47.5252 0 -47.5252 
+-242.576 0 242.576 0 
+0 -47.5252 0 47.5252 
+
+ psd: 0
+iter: 4   obj = 282.331   ||lambda||^2 = 453.897   n_projection_steps = 1
+ H = 139.191 0 -139.191 0 
+0 13.0637 0 -13.0637 
+-139.191 0 139.191 0 
+0 -13.0637 0 13.0637 
+
+ psd: 0
+iter: 5   obj = 21.3326   ||lambda||^2 = 38.6503   n_projection_steps = 1
+ H = 105.354 0 -105.354 0 
+0 1.78453 0 -1.78453 
+-105.354 0 105.354 0 
+0 -1.78453 0 1.78453 
+
+ psd: 0
+iter: 6   obj = 0.398068   ||lambda||^2 = 0.782451   n_projection_steps = 1
+ H = 100.137 0 -100.137 0 
+0 0.0455231 0 -0.0455231 
+-100.137 0 100.137 0 
+0 -0.0455231 0 0.0455231 
+
+ psd: 0
+iter: 7   obj = 0.000259044   ||lambda||^2 = 0.000517723   n_projection_steps = 1
+ H = 100 0 -100 0 
+0 4.2411e-05 0 -4.2411e-05 
+-100 0 100 0 
+0 -4.2411e-05 0 4.2411e-05 
+
+ psd: 0
+iter: 8   obj = 2.24836e-10   ||lambda||^2 = 4.4956e-10   n_projection_steps = 1
+[0;32m[       OK ] [mProjectedNewton.CheckAlgorithmOnSpringElementWithLength (1 ms)
+[0;32m[----------] [m1 test from ProjectedNewton (1 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (1 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ProjectedNewton.CheckAlgorithmOnSpringElementWithLength" end time: Dec 15 14:48 CET
+"ProjectedNewton.CheckAlgorithmOnSpringElementWithLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/66 Testing: ProjectedNewton.CheckAlgorithmOnConstrainedSpringElement
+41/66 Test: ProjectedNewton.CheckAlgorithmOnConstrainedSpringElement
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/NewtonMethods-test" "--gtest_filter=ProjectedNewton.CheckAlgorithmOnConstrainedSpringElement" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/NewtonMethods
+"ProjectedNewton.CheckAlgorithmOnConstrainedSpringElement" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = ProjectedNewton.CheckAlgorithmOnConstrainedSpringElement
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from ProjectedNewton
+[0;32m[ RUN      ] [mProjectedNewton.CheckAlgorithmOnConstrainedSpringElement
+******** Newton Method with projected hessian ********
+ H = 10 0 
+0 10 
+
+ psd: 1
+iter: 1   obj = 1010   ||lambda||^2 = 2020   n_projection_steps = 0
+ H = 10 0 
+0 10 
+
+ psd: 1
+iter: 2   obj = 3.15544e-29   ||lambda||^2 = 6.31089e-29   n_projection_steps = 0
+[0;32m[       OK ] [mProjectedNewton.CheckAlgorithmOnConstrainedSpringElement (0 ms)
+[0;32m[----------] [m1 test from ProjectedNewton (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ProjectedNewton.CheckAlgorithmOnConstrainedSpringElement" end time: Dec 15 14:48 CET
+"ProjectedNewton.CheckAlgorithmOnConstrainedSpringElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/66 Testing: ProjectedNewton.CheckAlgorithmOnNonConvexFunction
+42/66 Test: ProjectedNewton.CheckAlgorithmOnNonConvexFunction
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/NewtonMethods-test" "--gtest_filter=ProjectedNewton.CheckAlgorithmOnNonConvexFunction" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/NewtonMethods
+"ProjectedNewton.CheckAlgorithmOnNonConvexFunction" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = ProjectedNewton.CheckAlgorithmOnNonConvexFunction
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from ProjectedNewton
+[0;32m[ RUN      ] [mProjectedNewton.CheckAlgorithmOnNonConvexFunction
+******** Newton Method with projected hessian ********
+ H = 42.0423 -5.69677 
+-5.69677 34.6451 
+
+ psd: 1
+iter: 1   obj = 12.0212   ||lambda||^2 = 9.99609   n_projection_steps = 0
+ H = 21.9255 -8.39612 
+-8.39612 10.7096 
+
+ psd: 1
+iter: 2   obj = 6.00423   ||lambda||^2 = 4.03489   n_projection_steps = 0
+ H = 9.94722 -3.93488 
+-3.93488 4.01875 
+
+ psd: 1
+iter: 3   obj = 2.77109   ||lambda||^2 = 5.05285   n_projection_steps = 0
+ H = 5.15221 1.58524 
+1.58524 5.76958 
+
+ psd: 1
+iter: 4   obj = 0.414724   ||lambda||^2 = 0.231531   n_projection_steps = 0
+ H = 2.46128 0.704287 
+0.704287 15.1606 
+
+ psd: 1
+iter: 5   obj = 0.311719   ||lambda||^2 = 0.0682448   n_projection_steps = 0
+ H = 1.48046 2.6193 
+2.6193 20.1131 
+
+ psd: 1
+iter: 6   obj = 0.274886   ||lambda||^2 = 0.00935394   n_projection_steps = 0
+ H = 0.970505 2.35341 
+2.35341 25.5326 
+
+ psd: 1
+iter: 7   obj = 0.270053   ||lambda||^2 = 0.000415206   n_projection_steps = 0
+ H = 0.917887 2.52784 
+2.52784 26.4165 
+
+ psd: 1
+iter: 8   obj = 0.269843   ||lambda||^2 = 7.26888e-07   n_projection_steps = 0
+ H = 0.91402 2.52645 
+2.52645 26.4776 
+
+ psd: 1
+iter: 9   obj = 0.269843   ||lambda||^2 = 3.15417e-12   n_projection_steps = 0
+[0;32m[       OK ] [mProjectedNewton.CheckAlgorithmOnNonConvexFunction (0 ms)
+[0;32m[----------] [m1 test from ProjectedNewton (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ProjectedNewton.CheckAlgorithmOnNonConvexFunction" end time: Dec 15 14:48 CET
+"ProjectedNewton.CheckAlgorithmOnNonConvexFunction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/66 Testing: LBFGS.SimpleQuadraticProblem
+43/66 Test: LBFGS.SimpleQuadraticProblem
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/LBFGS-test" "--gtest_filter=LBFGS.SimpleQuadraticProblem" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/LBFGS
+"LBFGS.SimpleQuadraticProblem" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = LBFGS.SimpleQuadraticProblem
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from LBFGS
+[0;32m[ RUN      ] [mLBFGS.SimpleQuadraticProblem
+******** LBFGS ********
+iter: 0   obj = 9711.97   ||g||^2 = 6.95185e+06
+iter: 1   obj = 421.612   ||g||^2 = 186194
+iter: 2   obj = 100.912   ||g||^2 = 18045.6
+iter: 3   obj = 54.261   ||g||^2 = 3614.72
+iter: 4   obj = 43.6615   ||g||^2 = 793.242
+iter: 5   obj = 40.6994   ||g||^2 = 771.731
+iter: 6   obj = 35.0367   ||g||^2 = 1587.79
+iter: 7   obj = 12.2144   ||g||^2 = 4494.48
+iter: 8   obj = -2.15987   ||g||^2 = 3554.43
+iter: 9   obj = -6.42474   ||g||^2 = 331.002
+iter: 10   obj = -6.93114   ||g||^2 = 21.0038
+iter: 11   obj = -6.99831   ||g||^2 = 22.6234
+iter: 12   obj = -7.49229   ||g||^2 = 112.152
+iter: 13   obj = -7.9479   ||g||^2 = 141.605
+iter: 14   obj = -8.2018   ||g||^2 = 60.7911
+iter: 15   obj = -8.32766   ||g||^2 = 2.11104
+iter: 16   obj = -8.33545   ||g||^2 = 0.403286
+iter: 17   obj = -8.33895   ||g||^2 = 0.333381
+iter: 18   obj = -8.34399   ||g||^2 = 0.867564
+iter: 19   obj = -8.35239   ||g||^2 = 1.56204
+iter: 20   obj = -8.35763   ||g||^2 = 2.30155
+iter: 21   obj = -8.36128   ||g||^2 = 0.581862
+iter: 22   obj = -8.36241   ||g||^2 = 0.0227382
+iter: 23   obj = -8.36247   ||g||^2 = 0.00175283
+iter: 24   obj = -8.36248   ||g||^2 = 0.0014539
+iter: 25   obj = -8.36251   ||g||^2 = 0.00388165
+iter: 26   obj = -8.36252   ||g||^2 = 0.00566542
+iter: 27   obj = -8.36254   ||g||^2 = 0.00191889
+iter: 28   obj = -8.36254   ||g||^2 = 0.00091409
+iter: 29   obj = -8.36255   ||g||^2 = 0.000134787
+iter: 30   obj = -8.36255   ||g||^2 = 0.000123593
+iter: 31   obj = -8.36255   ||g||^2 = 0.000387244
+iter: 32   obj = -8.36255   ||g||^2 = 0.000870891
+iter: 33   obj = -8.36255   ||g||^2 = 0.000444609
+iter: 34   obj = -8.36256   ||g||^2 = 6.4833e-05
+iter: 35   obj = -8.36256   ||g||^2 = 6.02542e-05
+iter: 36   obj = -8.36256   ||g||^2 = 6.79858e-05
+iter: 37   obj = -8.36256   ||g||^2 = 0.000139691
+iter: 38   obj = -8.36256   ||g||^2 = 8.93715e-05
+iter: 39   obj = -8.36256   ||g||^2 = 1.28475e-05
+iter: 40   obj = -8.36256   ||g||^2 = 1.44427e-06
+iter: 41   obj = -8.36256   ||g||^2 = 1.06859e-06
+iter: 42   obj = -8.36256   ||g||^2 = 2.42685e-06
+iter: 43   obj = -8.36256   ||g||^2 = 5.39829e-06
+iter: 44   obj = -8.36256   ||g||^2 = 9.11568e-06
+iter: 45   obj = -8.36256   ||g||^2 = 1.98272e-06
+iter: 46   obj = -8.36256   ||g||^2 = 1.75179e-07
+iter: 47   obj = -8.36256   ||g||^2 = 2.3798e-07
+iter: 48   obj = -8.36256   ||g||^2 = 5.71155e-07
+iter: 49   obj = -8.36256   ||g||^2 = 1.24072e-06
+iter: 50   obj = -8.36256   ||g||^2 = 2.17906e-07
+iter: 51   obj = -8.36256   ||g||^2 = 2.90521e-08
+iter: 52   obj = -8.36256   ||g||^2 = 3.67957e-09
+Gradient norm converges!
+ 0.853996 -0.123254 -0.330507   1.18085  -0.56063
+[0;32m[       OK ] [mLBFGS.SimpleQuadraticProblem (0 ms)
+[0;32m[----------] [m1 test from LBFGS (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LBFGS.SimpleQuadraticProblem" end time: Dec 15 14:48 CET
+"LBFGS.SimpleQuadraticProblem" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/66 Testing: LBFGS.AnotherSimpleQuadraticProblem
+44/66 Test: LBFGS.AnotherSimpleQuadraticProblem
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/LBFGS-test" "--gtest_filter=LBFGS.AnotherSimpleQuadraticProblem" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/LBFGS
+"LBFGS.AnotherSimpleQuadraticProblem" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = LBFGS.AnotherSimpleQuadraticProblem
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from LBFGS
+[0;32m[ RUN      ] [mLBFGS.AnotherSimpleQuadraticProblem
+******** LBFGS ********
+iter: 0   obj = 2585.79   ||g||^2 = 1.11178e+06
+iter: 1   obj = 223.551   ||g||^2 = 41860.7
+iter: 2   obj = 96.2628   ||g||^2 = 15513.6
+iter: 3   obj = 17.1712   ||g||^2 = 1652.26
+iter: 4   obj = 6.67925   ||g||^2 = 830.742
+iter: 5   obj = 1.7279   ||g||^2 = 315.952
+iter: 6   obj = -0.234827   ||g||^2 = 26.0671
+iter: 7   obj = -0.280262   ||g||^2 = 2.3576
+iter: 8   obj = -0.284539   ||g||^2 = 0.122031
+iter: 9   obj = -0.284872   ||g||^2 = 0.00755833
+iter: 10   obj = -0.284899   ||g||^2 = 0.00267823
+iter: 11   obj = -0.28491   ||g||^2 = 0.000355967
+iter: 12   obj = -0.284911   ||g||^2 = 3.81139e-05
+iter: 13   obj = -0.284912   ||g||^2 = 2.37114e-05
+iter: 14   obj = -0.284912   ||g||^2 = 4.24786e-06
+iter: 15   obj = -0.284912   ||g||^2 = 2.1321e-07
+iter: 16   obj = -0.284912   ||g||^2 = 2.812e-08
+iter: 17   obj = -0.284912   ||g||^2 = 4.22789e-09
+Gradient norm converges!
+result: -0.05604011292  0.02944778934 -0.03578675322 -0.02188491717
+[0;32m[       OK ] [mLBFGS.AnotherSimpleQuadraticProblem (0 ms)
+[0;32m[----------] [m1 test from LBFGS (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LBFGS.AnotherSimpleQuadraticProblem" end time: Dec 15 14:48 CET
+"LBFGS.AnotherSimpleQuadraticProblem" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/66 Testing: SpringElement2DWithoutLengthLeastSquare.FunctionsEvaluation
+45/66 Test: SpringElement2DWithoutLengthLeastSquare.FunctionsEvaluation
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GaussNewton-test" "--gtest_filter=SpringElement2DWithoutLengthLeastSquare.FunctionsEvaluation" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GaussNewton
+"SpringElement2DWithoutLengthLeastSquare.FunctionsEvaluation" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = SpringElement2DWithoutLengthLeastSquare.FunctionsEvaluation
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from SpringElement2DWithoutLengthLeastSquare
+[0;32m[ RUN      ] [mSpringElement2DWithoutLengthLeastSquare.FunctionsEvaluation
+[0;32m[       OK ] [mSpringElement2DWithoutLengthLeastSquare.FunctionsEvaluation (0 ms)
+[0;32m[----------] [m1 test from SpringElement2DWithoutLengthLeastSquare (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"SpringElement2DWithoutLengthLeastSquare.FunctionsEvaluation" end time: Dec 15 14:48 CET
+"SpringElement2DWithoutLengthLeastSquare.FunctionsEvaluation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/66 Testing: ConstrainedSpringElement2DLeastSquare.FunctionsEvaluation
+46/66 Test: ConstrainedSpringElement2DLeastSquare.FunctionsEvaluation
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GaussNewton-test" "--gtest_filter=ConstrainedSpringElement2DLeastSquare.FunctionsEvaluation" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GaussNewton
+"ConstrainedSpringElement2DLeastSquare.FunctionsEvaluation" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = ConstrainedSpringElement2DLeastSquare.FunctionsEvaluation
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from ConstrainedSpringElement2DLeastSquare
+[0;32m[ RUN      ] [mConstrainedSpringElement2DLeastSquare.FunctionsEvaluation
+[0;32m[       OK ] [mConstrainedSpringElement2DLeastSquare.FunctionsEvaluation (0 ms)
+[0;32m[----------] [m1 test from ConstrainedSpringElement2DLeastSquare (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConstrainedSpringElement2DLeastSquare.FunctionsEvaluation" end time: Dec 15 14:48 CET
+"ConstrainedSpringElement2DLeastSquare.FunctionsEvaluation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/66 Testing: SpringElement2DWithLengthLeastSquare.FunctionsEvaluation
+47/66 Test: SpringElement2DWithLengthLeastSquare.FunctionsEvaluation
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GaussNewton-test" "--gtest_filter=SpringElement2DWithLengthLeastSquare.FunctionsEvaluation" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GaussNewton
+"SpringElement2DWithLengthLeastSquare.FunctionsEvaluation" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = SpringElement2DWithLengthLeastSquare.FunctionsEvaluation
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from SpringElement2DWithLengthLeastSquare
+[0;32m[ RUN      ] [mSpringElement2DWithLengthLeastSquare.FunctionsEvaluation
+[0;32m[       OK ] [mSpringElement2DWithLengthLeastSquare.FunctionsEvaluation (0 ms)
+[0;32m[----------] [m1 test from SpringElement2DWithLengthLeastSquare (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SpringElement2DWithLengthLeastSquare.FunctionsEvaluation" end time: Dec 15 14:48 CET
+"SpringElement2DWithLengthLeastSquare.FunctionsEvaluation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/66 Testing: SpringElement2DWithLengthLeastSquare.EnergyOfSpringAtRestIsAlwaysZero
+48/66 Test: SpringElement2DWithLengthLeastSquare.EnergyOfSpringAtRestIsAlwaysZero
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GaussNewton-test" "--gtest_filter=SpringElement2DWithLengthLeastSquare.EnergyOfSpringAtRestIsAlwaysZero" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GaussNewton
+"SpringElement2DWithLengthLeastSquare.EnergyOfSpringAtRestIsAlwaysZero" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = SpringElement2DWithLengthLeastSquare.EnergyOfSpringAtRestIsAlwaysZero
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from SpringElement2DWithLengthLeastSquare
+[0;32m[ RUN      ] [mSpringElement2DWithLengthLeastSquare.EnergyOfSpringAtRestIsAlwaysZero
+[0;32m[       OK ] [mSpringElement2DWithLengthLeastSquare.EnergyOfSpringAtRestIsAlwaysZero (1 ms)
+[0;32m[----------] [m1 test from SpringElement2DWithLengthLeastSquare (1 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (1 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SpringElement2DWithLengthLeastSquare.EnergyOfSpringAtRestIsAlwaysZero" end time: Dec 15 14:48 CET
+"SpringElement2DWithLengthLeastSquare.EnergyOfSpringAtRestIsAlwaysZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/66 Testing: MassSpringProblemWithoutLengthLeastSquares.InitialEnergy
+49/66 Test: MassSpringProblemWithoutLengthLeastSquares.InitialEnergy
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GaussNewton-test" "--gtest_filter=MassSpringProblemWithoutLengthLeastSquares.InitialEnergy" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GaussNewton
+"MassSpringProblemWithoutLengthLeastSquares.InitialEnergy" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringProblemWithoutLengthLeastSquares.InitialEnergy
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringProblemWithoutLengthLeastSquares
+[0;32m[ RUN      ] [mMassSpringProblemWithoutLengthLeastSquares.InitialEnergy
+[0;32m[       OK ] [mMassSpringProblemWithoutLengthLeastSquares.InitialEnergy (0 ms)
+[0;32m[----------] [m1 test from MassSpringProblemWithoutLengthLeastSquares (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringProblemWithoutLengthLeastSquares.InitialEnergy" end time: Dec 15 14:48 CET
+"MassSpringProblemWithoutLengthLeastSquares.InitialEnergy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/66 Testing: MassSpringProblemWithLengthLeastSquares.InitialEnergy
+50/66 Test: MassSpringProblemWithLengthLeastSquares.InitialEnergy
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GaussNewton-test" "--gtest_filter=MassSpringProblemWithLengthLeastSquares.InitialEnergy" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GaussNewton
+"MassSpringProblemWithLengthLeastSquares.InitialEnergy" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringProblemWithLengthLeastSquares.InitialEnergy
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringProblemWithLengthLeastSquares
+[0;32m[ RUN      ] [mMassSpringProblemWithLengthLeastSquares.InitialEnergy
+[0;32m[       OK ] [mMassSpringProblemWithLengthLeastSquares.InitialEnergy (0 ms)
+[0;32m[----------] [m1 test from MassSpringProblemWithLengthLeastSquares (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringProblemWithLengthLeastSquares.InitialEnergy" end time: Dec 15 14:48 CET
+"MassSpringProblemWithLengthLeastSquares.InitialEnergy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/66 Testing: MassSpringProblemWithLengthLeastSquares.convergesToSolution
+51/66 Test: MassSpringProblemWithLengthLeastSquares.convergesToSolution
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/GaussNewton-test" "--gtest_filter=MassSpringProblemWithLengthLeastSquares.convergesToSolution" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/GaussNewton
+"MassSpringProblemWithLengthLeastSquares.convergesToSolution" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringProblemWithLengthLeastSquares.convergesToSolution
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringProblemWithLengthLeastSquares
+[0;32m[ RUN      ] [mMassSpringProblemWithLengthLeastSquares.convergesToSolution
+******** Newton Method ********
+iter: 1   obj = 8.35528e+06   ||lambda||^2 = 1.67105e+07
+iter: 2   obj = 525793   ||lambda||^2 = 1.05046e+06
+iter: 3   obj = 34544.1   ||lambda||^2 = 68376.3
+iter: 4   obj = 3046.8   ||lambda||^2 = 5685.16
+iter: 5   obj = 684.418   ||lambda||^2 = 914.511
+iter: 6   obj = 447.44   ||lambda||^2 = 385.079
+iter: 7   obj = 360.166   ||lambda||^2 = 118.359
+iter: 8   obj = 337.863   ||lambda||^2 = 49.6937
+iter: 9   obj = 331.445   ||lambda||^2 = 27.7661
+iter: 10   obj = 328.467   ||lambda||^2 = 11.3782
+iter: 11   obj = 326.423   ||lambda||^2 = 10.1801
+iter: 12   obj = 325.619   ||lambda||^2 = 2.73212
+iter: 13   obj = 324.775   ||lambda||^2 = 3.0327
+iter: 14   obj = 324.593   ||lambda||^2 = 0.329822
+iter: 15   obj = 324.492   ||lambda||^2 = 0.432648
+iter: 16   obj = 324.466   ||lambda||^2 = 0.0498558
+iter: 17   obj = 324.453   ||lambda||^2 = 0.0564981
+iter: 18   obj = 324.449   ||lambda||^2 = 0.0120316
+iter: 19   obj = 324.446   ||lambda||^2 = 0.0138018
+iter: 20   obj = 324.445   ||lambda||^2 = 0.00303692
+iter: 21   obj = 324.445   ||lambda||^2 = 0.0038697
+iter: 22   obj = 324.444   ||lambda||^2 = 0.000777104
+iter: 23   obj = 324.444   ||lambda||^2 = 0.00112292
+iter: 24   obj = 324.444   ||lambda||^2 = 0.000200762
+iter: 25   obj = 324.444   ||lambda||^2 = 0.00019754
+iter: 26   obj = 324.444   ||lambda||^2 = 6.2656e-05
+iter: 27   obj = 324.444   ||lambda||^2 = 8.92553e-05
+iter: 28   obj = 324.444   ||lambda||^2 = 9.74948e-06
+iter: 29   obj = 324.444   ||lambda||^2 = 1.47455e-05
+iter: 30   obj = 324.444   ||lambda||^2 = 1.5198e-06
+iter: 31   obj = 324.444   ||lambda||^2 = 2.44411e-06
+iter: 32   obj = 324.444   ||lambda||^2 = 2.37331e-07
+iter: 33   obj = 324.444   ||lambda||^2 = 4.07466e-07
+iter: 34   obj = 324.444   ||lambda||^2 = 3.7225e-08
+iter: 35   obj = 324.444   ||lambda||^2 = 4.07094e-08
+iter: 36   obj = 324.444   ||lambda||^2 = 9.50906e-09
+iter: 37   obj = 324.444   ||lambda||^2 = 1.16795e-08
+iter: 38   obj = 324.444   ||lambda||^2 = 2.44586e-09
+iter: 39   obj = 324.444   ||lambda||^2 = 3.41404e-09
+iter: 40   obj = 324.444   ||lambda||^2 = 6.3311e-10
+iter: 41   obj = 324.444   ||lambda||^2 = 1.00978e-09
+iter: 42   obj = 324.444   ||lambda||^2 = 1.50812e-10
+######## Timing statistics ########
+total time    : 0.001924s
+total time evaluation : 0.000619s  (32.1726 %)
+eval_f time   : 0.00000s  ( #evals: 312 -> avg 0.00000s )
+eval_grad time: 0.00018s  ( #evals: 42 -> avg 0.00000s, factor: inf)
+eval_hess time: 0.00044s  ( #evals: 42 -> avg 0.00001s, factor: inf)
+[0;32m[       OK ] [mMassSpringProblemWithLengthLeastSquares.convergesToSolution (2 ms)
+[0;32m[----------] [m1 test from MassSpringProblemWithLengthLeastSquares (2 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (2 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringProblemWithLengthLeastSquares.convergesToSolution" end time: Dec 15 14:48 CET
+"MassSpringProblemWithLengthLeastSquares.convergesToSolution" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/66 Testing: MassSpringSystemWithEqualityConstraints.ProjectOnAffine
+52/66 Test: MassSpringSystemWithEqualityConstraints.ProjectOnAffine
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/EqualityConstrainedNewton-test" "--gtest_filter=MassSpringSystemWithEqualityConstraints.ProjectOnAffine" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/EqualityConstrainedNewton
+"MassSpringSystemWithEqualityConstraints.ProjectOnAffine" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringSystemWithEqualityConstraints.ProjectOnAffine
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringSystemWithEqualityConstraints
+[0;32m[ RUN      ] [mMassSpringSystemWithEqualityConstraints.ProjectOnAffine
+Constraint violation after projection: 1.47372e-30
+[0;32m[       OK ] [mMassSpringSystemWithEqualityConstraints.ProjectOnAffine (0 ms)
+[0;32m[----------] [m1 test from MassSpringSystemWithEqualityConstraints (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringSystemWithEqualityConstraints.ProjectOnAffine" end time: Dec 15 14:48 CET
+"MassSpringSystemWithEqualityConstraints.ProjectOnAffine" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/66 Testing: MassSpringSystemWithEqualityConstraints.CheckMinimum
+53/66 Test: MassSpringSystemWithEqualityConstraints.CheckMinimum
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/EqualityConstrainedNewton-test" "--gtest_filter=MassSpringSystemWithEqualityConstraints.CheckMinimum" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/EqualityConstrainedNewton
+"MassSpringSystemWithEqualityConstraints.CheckMinimum" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringSystemWithEqualityConstraints.CheckMinimum
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringSystemWithEqualityConstraints
+[0;32m[ RUN      ] [mMassSpringSystemWithEqualityConstraints.CheckMinimum
+Initial MassSpring system energy is 16568
+******** Equality Constrained Newton ********
+Constraint violation after projection: 0
+iter: 0   obj = 47850   lambda^2 = 95231.8
+iter: 1   obj = 3210.1   lambda^2 = 5951.99
+iter: 2   obj = 234.103   lambda^2 = 1.98845e-27
+ final energy = 234.1027993
+[0;32m[       OK ] [mMassSpringSystemWithEqualityConstraints.CheckMinimum (4 ms)
+[0;32m[----------] [m1 test from MassSpringSystemWithEqualityConstraints (4 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (4 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringSystemWithEqualityConstraints.CheckMinimum" end time: Dec 15 14:48 CET
+"MassSpringSystemWithEqualityConstraints.CheckMinimum" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/66 Testing: MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithoutLength
+54/66 Test: MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithoutLength
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/EqualityConstrainedNewtonInfeasibleStart-test" "--gtest_filter=MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithoutLength" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/EqualityConstrainedNewtonInfeasibleStart
+"MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithoutLength" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithoutLength
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringSystemWithInfeasibleStart
+[0;32m[ RUN      ] [mMassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithoutLength
+Initial MassSpring system energy is 27277.5
+******** Equality Constrained Newton with Infeasible Start Point********
+iter: 0   obj = 27277.5   residual = 669.959 constraint violation = 38.2207
+iter: 1   obj = 565.101   residual = 2.34119e-13 constraint violation = 5.06904e-14
+ fp = 27277.5
+[0;32m[       OK ] [mMassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithoutLength (2 ms)
+[0;32m[----------] [m1 test from MassSpringSystemWithInfeasibleStart (2 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (2 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithoutLength" end time: Dec 15 14:48 CET
+"MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithoutLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/66 Testing: MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithLength
+55/66 Test: MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithLength
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/EqualityConstrainedNewtonInfeasibleStart-test" "--gtest_filter=MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithLength" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/EqualityConstrainedNewtonInfeasibleStart
+"MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithLength" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithLength
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringSystemWithInfeasibleStart
+[0;32m[ RUN      ] [mMassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithLength
+Initial MassSpring system energy is 7.39797e+07
+******** Equality Constrained Newton with Infeasible Start Point********
+iter: 0   obj = 7.39797e+07   residual = 1.13371e+06 constraint violation = 146.005
+iter: 1   obj = 1.59884e+07   residual = 352250 constraint violation = 7.74793e-11
+iter: 2   obj = 3.27308e+06   residual = 104352 constraint violation = 3.48042e-12
+iter: 3   obj = 710699   residual = 31289.9 constraint violation = 1.14351e-12
+iter: 4   obj = 176796   residual = 9521.16 constraint violation = 6.26678e-13
+iter: 5   obj = 55729.9   residual = 3029.76 constraint violation = 4.11395e-13
+iter: 6   obj = 25374.6   residual = 1117.98 constraint violation = 4.39257e-13
+iter: 7   obj = 18727.5   residual = 461.295 constraint violation = 2.87009e-13
+iter: 8   obj = 17464.6   residual = 96.9874 constraint violation = 3.88835e-14
+iter: 9   obj = 17390.8   residual = 11.6336 constraint violation = 6.41484e-15
+iter: 10   obj = 17389.5   residual = 0.366244 constraint violation = 3.01812e-16
+iter: 11   obj = 17389.5   residual = 0.000914716 constraint violation = 2.8393e-17
+iter: 12   obj = 17389.5   residual = 3.79308e-08 constraint violation = 9.01916e-20
+ fp = 17389.5
+[0;32m[       OK ] [mMassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithLength (120 ms)
+[0;32m[----------] [m1 test from MassSpringSystemWithInfeasibleStart (120 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (120 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithLength" end time: Dec 15 14:48 CET
+"MassSpringSystemWithInfeasibleStart.CheckMinimumWithSpringWithLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/66 Testing: MassSpringSystemWithHybrid.CheckMinimumWithSpringWithoutLength
+56/66 Test: MassSpringSystemWithHybrid.CheckMinimumWithSpringWithoutLength
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/EqualityConstrainedNewtonInfeasibleStart-test" "--gtest_filter=MassSpringSystemWithHybrid.CheckMinimumWithSpringWithoutLength" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/EqualityConstrainedNewtonInfeasibleStart
+"MassSpringSystemWithHybrid.CheckMinimumWithSpringWithoutLength" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringSystemWithHybrid.CheckMinimumWithSpringWithoutLength
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringSystemWithHybrid
+[0;32m[ RUN      ] [mMassSpringSystemWithHybrid.CheckMinimumWithSpringWithoutLength
+Initial MassSpring system energy is 386576
+******** Equality Constrained Newton with hybrid method********
+iter: 0   obj = 386576   residual = 2622.74 constraint violation = 167.797
+iter: 1   obj = 6127.18   lambda^2 = -11879.3 constraint violation = 1.2523e-13
+[0;32m[       OK ] [mMassSpringSystemWithHybrid.CheckMinimumWithSpringWithoutLength (8 ms)
+[0;32m[----------] [m1 test from MassSpringSystemWithHybrid (8 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (8 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringSystemWithHybrid.CheckMinimumWithSpringWithoutLength" end time: Dec 15 14:48 CET
+"MassSpringSystemWithHybrid.CheckMinimumWithSpringWithoutLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/66 Testing: MassSpringSystemWithHybrid.CheckMinimumWithSpringWithLength
+57/66 Test: MassSpringSystemWithHybrid.CheckMinimumWithSpringWithLength
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/EqualityConstrainedNewtonInfeasibleStart-test" "--gtest_filter=MassSpringSystemWithHybrid.CheckMinimumWithSpringWithLength" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/EqualityConstrainedNewtonInfeasibleStart
+"MassSpringSystemWithHybrid.CheckMinimumWithSpringWithLength" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = MassSpringSystemWithHybrid.CheckMinimumWithSpringWithLength
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from MassSpringSystemWithHybrid
+[0;32m[ RUN      ] [mMassSpringSystemWithHybrid.CheckMinimumWithSpringWithLength
+Initial MassSpring system energy is 3.37996e+06
+******** Equality Constrained Newton with hybrid method********
+iter: 0   obj = 3.37996e+06   residual = 232503 constraint violation = 29.1739
+iter: 1   obj = 715585   lambda^2 = 1.24084e+06 constraint violation = 8.25114e-12
+iter: 2   obj = 147064   lambda^2 = 281374 constraint violation = 8.84955e-12
+iter: 3   obj = 32190.8   lambda^2 = 57294.1 constraint violation = 8.86952e-12
+iter: 4   obj = 8168.37   lambda^2 = 12200.6 constraint violation = 8.77549e-12
+iter: 5   obj = 2677.45   lambda^2 = 2873.14 constraint violation = 8.8819e-12
+iter: 6   obj = 1217.84   lambda^2 = 646.136 constraint violation = 8.92561e-12
+iter: 7   obj = 909.821   lambda^2 = 50.1032 constraint violation = 8.91673e-12
+iter: 8   obj = 873.596   lambda^2 = 19.1309 constraint violation = 8.9202e-12
+iter: 9   obj = 868.31   lambda^2 = 0.492585 constraint violation = 8.92007e-12
+iter: 10   obj = 868.26   lambda^2 = 0.00116286 constraint violation = 8.92014e-12
+iter: 11   obj = 868.26   lambda^2 = 4.08957e-09 constraint violation = 8.92014e-12
+iter: 12   obj = 868.26   lambda^2 = 6.33457e-13 constraint violation = 8.92014e-12
+[0;32m[       OK ] [mMassSpringSystemWithHybrid.CheckMinimumWithSpringWithLength (2 ms)
+[0;32m[----------] [m1 test from MassSpringSystemWithHybrid (2 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (2 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MassSpringSystemWithHybrid.CheckMinimumWithSpringWithLength" end time: Dec 15 14:48 CET
+"MassSpringSystemWithHybrid.CheckMinimumWithSpringWithLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/66 Testing: CircleConstraint2D.CheckFunctions
+58/66 Test: CircleConstraint2D.CheckFunctions
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/AugmentedLagrangian-test" "--gtest_filter=CircleConstraint2D.CheckFunctions" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/AugmentedLagrangian
+"CircleConstraint2D.CheckFunctions" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = CircleConstraint2D.CheckFunctions
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from CircleConstraint2D
+[0;32m[ RUN      ] [mCircleConstraint2D.CheckFunctions
+ g: -5 -1
+[0;32m[       OK ] [mCircleConstraint2D.CheckFunctions (0 ms)
+[0;32m[----------] [m1 test from CircleConstraint2D (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"CircleConstraint2D.CheckFunctions" end time: Dec 15 14:48 CET
+"CircleConstraint2D.CheckFunctions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/66 Testing: CircleConstraint2D.CheckFunctionsWithDifferentIndices
+59/66 Test: CircleConstraint2D.CheckFunctionsWithDifferentIndices
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/AugmentedLagrangian-test" "--gtest_filter=CircleConstraint2D.CheckFunctionsWithDifferentIndices" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/AugmentedLagrangian
+"CircleConstraint2D.CheckFunctionsWithDifferentIndices" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = CircleConstraint2D.CheckFunctionsWithDifferentIndices
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from CircleConstraint2D
+[0;32m[ RUN      ] [mCircleConstraint2D.CheckFunctionsWithDifferentIndices
+[0;32m[       OK ] [mCircleConstraint2D.CheckFunctionsWithDifferentIndices (0 ms)
+[0;32m[----------] [m1 test from CircleConstraint2D (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"CircleConstraint2D.CheckFunctionsWithDifferentIndices" end time: Dec 15 14:48 CET
+"CircleConstraint2D.CheckFunctionsWithDifferentIndices" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/66 Testing: CircleConstraintSquared2D.CheckFunctions
+60/66 Test: CircleConstraintSquared2D.CheckFunctions
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/AugmentedLagrangian-test" "--gtest_filter=CircleConstraintSquared2D.CheckFunctions" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/AugmentedLagrangian
+"CircleConstraintSquared2D.CheckFunctions" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = CircleConstraintSquared2D.CheckFunctions
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from CircleConstraintSquared2D
+[0;32m[ RUN      ] [mCircleConstraintSquared2D.CheckFunctions
+ g: 
+    0     0     0     0 -62.5 -12.5     0     0     0     0
+[0;32m[       OK ] [mCircleConstraintSquared2D.CheckFunctions (0 ms)
+[0;32m[----------] [m1 test from CircleConstraintSquared2D (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"CircleConstraintSquared2D.CheckFunctions" end time: Dec 15 14:48 CET
+"CircleConstraintSquared2D.CheckFunctions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/66 Testing: CircleConstraintSquared2D.CheckFunctionsWithDifferentIndices
+61/66 Test: CircleConstraintSquared2D.CheckFunctionsWithDifferentIndices
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/AugmentedLagrangian-test" "--gtest_filter=CircleConstraintSquared2D.CheckFunctionsWithDifferentIndices" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/AugmentedLagrangian
+"CircleConstraintSquared2D.CheckFunctionsWithDifferentIndices" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = CircleConstraintSquared2D.CheckFunctionsWithDifferentIndices
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from CircleConstraintSquared2D
+[0;32m[ RUN      ] [mCircleConstraintSquared2D.CheckFunctionsWithDifferentIndices
+[0;32m[       OK ] [mCircleConstraintSquared2D.CheckFunctionsWithDifferentIndices (0 ms)
+[0;32m[----------] [m1 test from CircleConstraintSquared2D (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"CircleConstraintSquared2D.CheckFunctionsWithDifferentIndices" end time: Dec 15 14:48 CET
+"CircleConstraintSquared2D.CheckFunctionsWithDifferentIndices" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/66 Testing: AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_lowDimProblem
+62/66 Test: AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_lowDimProblem
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/AugmentedLagrangian-test" "--gtest_filter=AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_lowDimProblem" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/AugmentedLagrangian
+"AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_lowDimProblem" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_lowDimProblem
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from AugmentedLagrangianProblem
+[0;32m[ RUN      ] [mAugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_lowDimProblem
+g: -2.75 -8.75  3.75  5.25 -3.75  5.25  8.75 55.25
+H: 5 0.5 -1 0 -1 0 -1 0 
+0.5 5 0 -1 0 -1 0 -1 
+-1 0 5 0.5 -1 0 -1 0 
+0 -1 0.5 5 0 -1 0 -1 
+-1 0 -1 0 5 0.5 -1 0 
+0 -1 0 -1 0.5 5 0 -1 
+-1 0 -1 0 -1 0 5 0.5 
+0 -1 0 -1 0 -1 0.5 5 
+
+[0;32m[       OK ] [mAugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_lowDimProblem (0 ms)
+[0;32m[----------] [m1 test from AugmentedLagrangianProblem (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_lowDimProblem" end time: Dec 15 14:48 CET
+"AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_lowDimProblem" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/66 Testing: AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_higherDimProblem
+63/66 Test: AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_higherDimProblem
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/AugmentedLagrangian-test" "--gtest_filter=AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_higherDimProblem" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/AugmentedLagrangian
+"AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_higherDimProblem" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_higherDimProblem
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from AugmentedLagrangianProblem
+[0;32m[ RUN      ] [mAugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_higherDimProblem
+ n = 242
+[0;32m[       OK ] [mAugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_higherDimProblem (2 ms)
+[0;32m[----------] [m1 test from AugmentedLagrangianProblem (2 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (2 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_higherDimProblem" end time: Dec 15 14:48 CET
+"AugmentedLagrangianProblem.CheckFunctionsWithBoundaryConstraintsA_higherDimProblem" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/66 Testing: AreaConstraint2D.CheckFunctions
+64/66 Test: AreaConstraint2D.CheckFunctions
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/InteriorPoint-test" "--gtest_filter=AreaConstraint2D.CheckFunctions" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/InteriorPoint
+"AreaConstraint2D.CheckFunctions" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = AreaConstraint2D.CheckFunctions
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from AreaConstraint2D
+[0;32m[ RUN      ] [mAreaConstraint2D.CheckFunctions
+ g:  0.5  0.5 -0.5    0    0 -0.5
+[0;32m[       OK ] [mAreaConstraint2D.CheckFunctions (0 ms)
+[0;32m[----------] [m1 test from AreaConstraint2D (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"AreaConstraint2D.CheckFunctions" end time: Dec 15 14:48 CET
+"AreaConstraint2D.CheckFunctions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/66 Testing: InteriorPointProblem.CheckFunctions
+65/66 Test: InteriorPointProblem.CheckFunctions
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/InteriorPoint-test" "--gtest_filter=InteriorPointProblem.CheckFunctions" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/InteriorPoint
+"InteriorPointProblem.CheckFunctions" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = InteriorPointProblem.CheckFunctions
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from InteriorPointProblem
+[0;32m[ RUN      ] [mInteriorPointProblem.CheckFunctions
+ g:  20  20 -19  20 -19 -19  20 -19
+[0;32m[       OK ] [mInteriorPointProblem.CheckFunctions (0 ms)
+[0;32m[----------] [m1 test from InteriorPointProblem (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"InteriorPointProblem.CheckFunctions" end time: Dec 15 14:48 CET
+"InteriorPointProblem.CheckFunctions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/66 Testing: InteriorPointMethod.CheckMinimum
+66/66 Test: InteriorPointMethod.CheckMinimum
+Command: "/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/Build/bin/InteriorPoint-test" "--gtest_filter=InteriorPointMethod.CheckMinimum" "--gtest_color=yes"
+Directory: /Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/InteriorPoint
+"InteriorPointMethod.CheckMinimum" start time: Dec 15 14:48 CET
+Output:
+----------------------------------------------------------
+[0;33mNote: Google Test filter = InteriorPointMethod.CheckMinimum
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from InteriorPointMethod
+[0;32m[ RUN      ] [mInteriorPointMethod.CheckMinimum
+******** Interior Point ********
+******** Newton Method with projected hessian ********
+ H = 100008 4 -4 0 0 0 0 0 -0 0 -4 -4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+4 100008 0 -0 0 0 0 0 0 -4 -4 -4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-4 0 16 0 -4 0 0 0 -4 4 -0 0 -4 -4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 -0 0 12 0 -0 0 0 4 -4 0 -4 -4 -4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -4 0 16 0 -4 0 0 0 -4 4 -0 0 -4 -4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 -0 0 12 0 -0 0 0 4 -4 0 -4 -4 -4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 -4 0 100008 -4 0 0 0 0 -4 4 -0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 -0 -4 100008 0 0 0 0 4 -4 0 -4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-0 0 -4 4 0 0 0 0 12 0 -4 0 0 0 0 0 -0 0 -4 -4 0 0 0 0 0 0 0 0 0 0 0 0 
+0 -4 4 -4 0 0 0 0 0 16 0 -0 0 0 0 0 0 -4 -4 -4 0 0 0 0 0 0 0 0 0 0 0 0 
+-4 -4 -0 0 -4 4 0 0 -4 0 100024 0 -4 0 0 0 -4 4 -0 0 -4 -4 0 0 0 0 0 0 0 0 0 0 
+-4 -4 0 -4 4 -4 0 0 0 -0 0 100024 0 -0 0 0 4 -4 0 -4 -4 -4 0 0 0 0 0 0 0 0 0 0 
+0 0 -4 -4 -0 0 -4 4 0 0 -4 0 24 0 -4 0 0 0 -4 4 -0 0 -4 -4 0 0 0 0 0 0 0 0 
+0 0 -4 -4 0 -4 4 -4 0 0 0 -0 0 24 0 -0 0 0 4 -4 0 -4 -4 -4 0 0 0 0 0 0 0 0 
+0 0 0 0 -4 -4 -0 0 0 0 0 0 -4 0 12 0 0 0 0 0 -4 4 -0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 -4 -4 0 -4 0 0 0 0 0 -0 0 16 0 0 0 0 4 -4 0 -4 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 -0 0 -4 4 0 0 0 0 12 0 -4 0 0 0 0 0 -0 0 -4 -4 0 0 0 0 
+0 0 0 0 0 0 0 0 0 -4 4 -4 0 0 0 0 0 16 0 -0 0 0 0 0 0 -4 -4 -4 0 0 0 0 
+0 0 0 0 0 0 0 0 -4 -4 -0 0 -4 4 0 0 -4 0 24 0 -4 0 0 0 -4 4 -0 0 -4 -4 0 0 
+0 0 0 0 0 0 0 0 -4 -4 0 -4 4 -4 0 0 0 -0 0 24 0 -0 0 0 4 -4 0 -4 -4 -4 0 0 
+0 0 0 0 0 0 0 0 0 0 -4 -4 -0 0 -4 4 0 0 -4 0 24 0 -4 0 0 0 -4 4 -0 0 -4 -4 
+0 0 0 0 0 0 0 0 0 0 -4 -4 0 -4 4 -4 0 0 0 -0 0 24 0 -0 0 0 4 -4 0 -4 -4 -4 
+0 0 0 0 0 0 0 0 0 0 0 0 -4 -4 -0 0 0 0 0 0 -4 0 12 0 0 0 0 0 -4 4 -0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 -4 -4 0 -4 0 0 0 0 0 -0 0 16 0 0 0 0 4 -4 0 -4 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0 0 -4 4 0 0 0 0 100008 -4 -4 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -4 4 -4 0 0 0 0 -4 100008 0 -0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -4 -4 -0 0 -4 4 0 0 -4 0 16 0 -4 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -4 -4 0 -4 4 -4 0 0 0 -0 0 12 0 -0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -4 -4 -0 0 -4 4 0 0 -4 0 16 0 -4 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -4 -4 0 -4 4 -4 0 0 0 -0 0 12 0 -0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -4 -4 -0 0 0 0 0 0 -4 0 100008 4 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -4 -4 0 -4 0 0 0 0 0 -0 4 100008 
+
+ psd: 1
+iter: 1   obj = 4.1125e+06   ||lambda||^2 = 8.22443e+06   n_projection_steps = 0
+ H = 100368 101.176 -69.6802 -14.017 0 0 0 0 -82.6512 -28.4295 -215.527 -58.7291 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+101.176 100177 -14.017 -27.5424 0 0 0 0 -28.4295 -47.2777 -58.7291 -102.495 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-69.6802 -14.017 129.897 33.2908 -11.2696 3.40377 0 0 1.98759 -0.657889 -38.9047 -14.5219 -12.0306 -7.49775 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-14.017 -27.5424 33.2908 66.7244 3.40377 -4.26528 0 0 -0.657889 -1.56563 -14.5219 -23.1647 -7.49775 -10.1864 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -11.2696 3.40377 29.1017 6.87977 0.665197 0.701016 0 0 -10.7288 -8.40711 -5.03424 -0.0584344 -2.73439 -2.51901 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 3.40377 -4.26528 6.87977 60.4149 0.701016 0.514612 0 0 -8.40711 -23.4987 -0.0584344 -19.1018 -2.51901 -14.0639 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0.665197 0.701016 100014 -4.57569 0 0 0 0 -7.6452 3.60527 -7.37086 0.269406 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0.701016 0.514612 -4.57569 100054 0 0 0 0 3.60527 -28.5145 0.269406 -26.0971 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-82.6512 -28.4295 1.98759 -0.657889 0 0 0 0 117.615 29.9001 -30.1959 -4.70813 0 0 0 0 -0.995555 1.72919 -5.75975 2.16626 0 0 0 0 0 0 0 0 0 0 0 0 
+-28.4295 -47.2777 -0.657889 -1.56563 0 0 0 0 29.9001 86.1728 -4.70813 -10.1318 0 0 0 0 1.72919 -2.91855 2.16626 -24.2792 0 0 0 0 0 0 0 0 0 0 0 0 
+-215.527 -58.7291 -38.9047 -14.5219 -10.7288 -8.40711 0 0 -30.1959 -4.70813 100395 58.4821 -4.22949 -0.740529 0 0 -43.3364 3.86654 -42.4093 16.853 -9.80553 7.90517 0 0 0 0 0 0 0 0 0 0 
+-58.7291 -102.495 -14.5219 -23.1647 -8.40711 -23.4987 0 0 -4.70813 -10.1318 58.4821 100216 -0.740529 -0.254464 0 0 3.86654 -12.4137 16.853 -27.3914 7.90517 -16.655 0 0 0 0 0 0 0 0 0 0 
+0 0 -12.0306 -7.49775 -5.03424 -0.0584344 -7.6452 3.60527 0 0 -4.22949 -0.740529 52.2929 -4.72065 1.18468 0.21919 0 0 -16.8653 11.2693 -5.44908 0.963791 -2.22368 -3.04018 0 0 0 0 0 0 0 0 
+0 0 -7.49775 -10.1864 -0.0584344 -19.1018 3.60527 -28.5145 0 0 -0.740529 -0.254464 -4.72065 108.289 0.21919 1.60318 0 0 11.2693 -20.9439 0.963791 -20.0946 -3.04018 -10.7962 0 0 0 0 0 0 0 0 
+0 0 0 0 -2.73439 -2.51901 -7.37086 0.269406 0 0 0 0 1.18468 0.21919 18.7707 -1.06298 0 0 0 0 -5.9785 4.00495 -3.87158 -0.911554 0 0 0 0 0 0 0 0 
+0 0 0 0 -2.51901 -14.0639 0.269406 -26.0971 0 0 0 0 0.21919 1.60318 -1.06298 76.079 0 0 0 0 4.00495 -22.1948 -0.911554 -15.3264 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 -0.995555 1.72919 -43.3364 3.86654 0 0 0 0 117.479 -37.1477 -1.81404 -1.33101 0 0 0 0 -66.2128 29.5588 -5.12029 3.32418 0 0 0 0 
+0 0 0 0 0 0 0 0 1.72919 -2.91855 3.86654 -12.4137 0 0 0 0 -37.1477 95.9586 -1.33101 -8.40797 0 0 0 0 29.5588 -51.5871 3.32418 -20.6313 0 0 0 0 
+0 0 0 0 0 0 0 0 -5.75975 2.16626 -42.4093 16.853 -16.8653 11.2693 0 0 -1.81404 -1.33101 145.719 -41.6736 -9.91438 -0.456599 0 0 -64.809 14.5873 -1.6604 1.87686 -2.48639 -3.29145 0 0 
+0 0 0 0 0 0 0 0 2.16626 -24.2792 16.853 -27.3914 11.2693 -20.9439 0 0 -1.33101 -8.40797 -41.6736 112.917 -0.456599 -2.00649 0 0 14.5873 -25.3451 1.87686 -1.85736 -3.29145 -2.68543 0 0 
+0 0 0 0 0 0 0 0 0 0 -9.80553 7.90517 -5.44908 0.963791 -5.9785 4.00495 0 0 -9.91438 -0.456599 54.9921 -18.1443 -0.568296 0.922083 0 0 -22.624 5.16538 -1.00137 1.72973 0.349039 -2.09017 
+0 0 0 0 0 0 0 0 0 0 7.90517 -16.655 0.963791 -20.0946 4.00495 -22.1948 0 0 -0.456599 -2.00649 -18.1443 72.966 0.922083 0.401275 0 0 5.16538 -6.93897 1.72973 -2.76261 -2.09017 -2.71475 
+0 0 0 0 0 0 0 0 0 0 0 0 -2.22368 -3.04018 -3.87158 -0.911554 0 0 0 0 -0.568296 0.922083 15.2231 -3.03866 0 0 0 0 -6.64014 5.49572 -1.91936 0.572585 
+0 0 0 0 0 0 0 0 0 0 0 0 -3.04018 -10.7962 -0.911554 -15.3264 0 0 0 0 0.922083 0.401275 -3.03866 42.7038 0 0 0 0 5.49572 -7.39447 0.572585 -9.58802 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -66.2128 29.5588 -64.809 14.5873 0 0 0 0 100172 -48.3269 -40.7478 4.18079 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 29.5588 -51.5871 14.5873 -25.3451 0 0 0 0 -48.3269 100090 4.18079 -13.073 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -5.12029 3.32418 -1.6604 1.87686 -22.624 5.16538 0 0 -40.7478 4.18079 82.8634 -13.1878 -12.7109 -1.35938 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.32418 -20.6313 1.87686 -1.85736 5.16538 -6.93897 0 0 4.18079 -13.073 -13.1878 45.6572 -1.35938 -3.15649 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.48639 -3.29145 -1.00137 1.72973 -6.64014 5.49572 0 0 -12.7109 -1.35938 27.2601 -1.85224 -4.42127 -0.722387 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.29145 -2.68543 1.72973 -2.76261 5.49572 -7.39447 0 0 -1.35938 -3.15649 -1.85224 16.3035 -0.722387 -0.304532 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.349039 -2.09017 -1.91936 0.572585 0 0 0 0 -4.42127 -0.722387 100006 2.23997 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.09017 -2.71475 0.572585 -9.58802 0 0 0 0 -0.722387 -0.304532 2.23997 100013 
+
+ psd: 1
+iter: 2   obj = 258400   ||lambda||^2 = 511047   n_projection_steps = 0
+ H = 100463 124.862 -78.6279 -19.3999 0 0 0 0 -71.8654 -24.2467 -312.952 -81.2159 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+124.862 100220 -19.3999 -34.6565 0 0 0 0 -24.2467 -40.0889 -81.2159 -145.553 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-78.6279 -19.3999 181.017 44.5731 -18.2901 1.76878 0 0 3.26226 0.422593 -75.896 -21.1804 -11.4655 -6.18422 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-19.3999 -34.6565 44.5731 80.1889 1.76878 -5.07352 0 0 0.422593 2.64743 -21.1804 -36.2046 -6.18422 -6.90168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -18.2901 1.76878 39.1726 7.2698 -1.40175 1.73938 0 0 -18.7354 -11.6722 -1.98347 1.76126 1.23802 -0.866999 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 1.76878 -5.07352 7.2698 42.6228 1.73938 -5.7759 0 0 -11.6722 -20.0247 1.76126 -8.05462 -0.866999 -3.69407 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 -1.40175 1.73938 100020 -10.5407 0 0 0 0 -10.7048 7.03095 -8.29493 1.77034 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1.73938 -5.7759 -10.5407 100066 0 0 0 0 7.03095 -31.4971 1.77034 -28.2618 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-71.8654 -24.2467 3.26226 0.422593 0 0 0 0 165.847 41.0641 -83.6017 -15.7943 0 0 0 0 -7.03372 0.106325 -6.60889 -1.55202 0 0 0 0 0 0 0 0 0 0 0 0 
+-24.2467 -40.0889 0.422593 2.64743 0 0 0 0 41.0641 122.424 -15.7943 -32.5192 0 0 0 0 0.106325 -25.0987 -1.55202 -27.365 0 0 0 0 0 0 0 0 0 0 0 0 
+-312.952 -81.2159 -75.896 -21.1804 -18.7354 -11.6722 0 0 -83.6017 -15.7943 100704 89.6065 -22.5978 -3.82629 0 0 -82.1895 15.9439 -76.9336 17.4302 -30.8902 10.7086 0 0 0 0 0 0 0 0 0 0 
+-81.2159 -145.553 -21.1804 -36.2046 -11.6722 -20.0247 0 0 -15.7943 -32.5192 89.6065 100320 -3.82629 -7.41207 0 0 15.9439 -30.7883 17.4302 -32.3133 10.7086 -14.748 0 0 0 0 0 0 0 0 0 0 
+0 0 -11.4655 -6.18422 -1.98347 1.76126 -10.7048 7.03095 0 0 -22.5978 -3.82629 68.7344 -9.10897 0.226321 0.326697 0 0 -16.2351 10.5612 -3.90952 2.03305 -2.06466 -2.59372 0 0 0 0 0 0 0 0 
+0 0 -6.18422 -6.90168 1.76126 -8.05462 7.03095 -31.4971 0 0 -3.82629 -7.41207 -9.10897 96.4875 0.326697 1.28519 0 0 10.5612 -18.1905 2.03305 -14.1769 -2.59372 -11.5398 0 0 0 0 0 0 0 0 
+0 0 0 0 1.23802 -0.866999 -8.29493 1.77034 0 0 0 0 0.226321 0.326697 17.6979 -8.18418 0 0 0 0 -6.68203 6.05224 -4.18533 0.901895 0 0 0 0 0 0 0 0 
+0 0 0 0 -0.866999 -3.69407 1.77034 -28.2618 0 0 0 0 0.326697 1.28519 -8.18418 63.5007 0 0 0 0 6.05224 -16.5414 0.901895 -16.2886 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 -7.03372 0.106325 -82.1895 15.9439 0 0 0 0 162.905 -45.2329 1.74983 -0.116051 0 0 0 0 -72.0753 25.0541 -3.35654 4.24463 0 0 0 0 
+0 0 0 0 0 0 0 0 0.106325 -25.0987 15.9439 -30.7883 0 0 0 0 -45.2329 104.128 -0.116051 1.78163 0 0 0 0 25.0541 -41.4141 4.24463 -8.60864 0 0 0 0 
+0 0 0 0 0 0 0 0 -6.60889 -1.55202 -76.9336 17.4302 -16.2351 10.5612 0 0 1.74983 -0.116051 189.709 -52.3652 -7.2367 0.345493 0 0 -76.4491 24.1775 -6.41136 4.64589 -1.58449 -3.12699 0 0 
+0 0 0 0 0 0 0 0 -1.55202 -27.365 17.4302 -32.3133 10.5612 -18.1905 0 0 -0.116051 1.78163 -52.3652 127.933 0.345493 -1.10477 0 0 24.1775 -38.4943 4.64589 -8.75347 -3.12699 -3.49281 0 0 
+0 0 0 0 0 0 0 0 0 0 -30.8902 10.7086 -3.90952 2.03305 -6.68203 6.05224 0 0 -7.2367 0.345493 88.6797 -25.2076 -1.10239 0.115156 0 0 -28.1452 11.3125 -1.78615 2.10361 -8.92757 -7.46297 
+0 0 0 0 0 0 0 0 0 0 10.7086 -14.748 2.03305 -14.1769 6.05224 -16.5414 0 0 0.345493 -1.10477 -25.2076 84.1936 0.115156 0.957311 0 0 11.3125 -15.5977 2.10361 -5.68264 -7.46297 -17.2996 
+0 0 0 0 0 0 0 0 0 0 0 0 -2.06466 -2.59372 -4.18533 0.901895 0 0 0 0 -1.10239 0.115156 19.8512 -1.48893 0 0 0 0 -7.19812 5.44981 -5.30067 -2.38421 
+0 0 0 0 0 0 0 0 0 0 0 0 -2.59372 -11.5398 0.901895 -16.2886 0 0 0 0 0.115156 0.957311 -1.48893 51.6969 0 0 0 0 5.44981 -6.63066 -2.38421 -18.1951 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -72.0753 25.0541 -76.4491 24.1775 0 0 0 0 100187 -54.3142 -38.2416 5.08261 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25.0541 -41.4141 24.1775 -38.4943 0 0 0 0 -54.3142 100093 5.08261 -12.7135 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.35654 4.24463 -6.41136 4.64589 -28.1452 11.3125 0 0 -38.2416 5.08261 91.8176 -26.6097 -15.6629 1.32403 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4.24463 -8.60864 4.64589 -8.75347 11.3125 -15.5977 0 0 5.08261 -12.7135 -26.6097 49.7602 1.32403 -4.08697 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.58449 -3.12699 -1.78615 2.10361 -7.19812 5.44981 0 0 -15.6629 1.32403 39.1243 -1.55684 -12.8927 -4.19363 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.12699 -3.49281 2.10361 -5.68264 5.44981 -6.63066 0 0 1.32403 -4.08697 -1.55684 25.3792 -4.19363 -5.48614 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -8.92757 -7.46297 -5.30067 -2.38421 0 0 0 0 -12.8927 -4.19363 100027 14.0408 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -7.46297 -17.2996 -2.38421 -18.1951 0 0 0 0 -4.19363 -5.48614 14.0408 100041 
+
+ psd: 1
+iter: 3   obj = 18923.3   ||lambda||^2 = 31793.4   n_projection_steps = 0
+ H = 100509 136.546 -87.8326 -21.7224 0 0 0 0 -81.3087 -27.4814 -339.866 -87.3424 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+136.546 100242 -21.7224 -38.9558 0 0 0 0 -27.4814 -45.6859 -87.3424 -157.376 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-87.8326 -21.7224 197.652 49.6013 -19.9182 -0.0154548 0 0 3.20749 0.444248 -80.2096 -21.9168 -12.8991 -6.39096 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-21.7224 -38.9558 49.6013 86.7644 -0.0154548 -5.30609 0 0 0.444248 2.42616 -21.9168 -37.7888 -6.39096 -7.13987 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -19.9182 -0.0154548 38.1813 7.64636 -2.54421 1.45272 0 0 -17.6513 -10.2526 -0.746054 1.37482 2.67848 -0.205838 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -0.0154548 -5.30609 7.64636 35.7945 1.45272 -10.619 0 0 -10.2526 -15.5699 1.37482 -4.40028 -0.205838 0.100768 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 -2.54421 1.45272 100021 -8.94624 0 0 0 0 -10.1671 5.80469 -8.32071 1.68883 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1.45272 -10.619 -8.94624 100072 0 0 0 0 5.80469 -32.92 1.68883 -28.3978 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-81.3087 -27.4814 3.20749 0.444248 0 0 0 0 179.462 44.007 -87.6514 -15.7118 0 0 0 0 -7.82282 0.0190058 -5.88616 -1.27702 0 0 0 0 0 0 0 0 0 0 0 0 
+-27.4814 -45.6859 0.444248 2.42616 0 0 0 0 44.007 129.577 -15.7118 -33.524 0 0 0 0 0.0190058 -27.4684 -1.27702 -25.3243 0 0 0 0 0 0 0 0 0 0 0 0 
+-339.866 -87.3424 -80.2096 -21.9168 -17.6513 -10.2526 0 0 -87.6514 -15.7118 100748 93.5386 -23.0736 -4.10914 0 0 -86.4564 18.1579 -81.8264 17.3583 -31.0713 10.2779 0 0 0 0 0 0 0 0 0 0 
+-87.3424 -157.376 -21.9168 -37.7888 -10.2526 -15.5699 0 0 -15.7118 -33.524 93.5386 100333 -4.10914 -7.73299 0 0 18.1579 -33.6768 17.3583 -33.3784 10.2779 -14.1623 0 0 0 0 0 0 0 0 0 0 
+0 0 -12.8991 -6.39096 -0.746054 1.37482 -10.1671 5.80469 0 0 -23.0736 -4.10914 69.7149 -8.01796 0.939204 0.336455 0 0 -18.0768 11.158 -3.7545 1.99187 -1.93693 -2.14774 0 0 0 0 0 0 0 0 
+0 0 -6.39096 -7.13987 1.37482 -4.40028 5.80469 -32.92 0 0 -4.10914 -7.73299 -8.01796 95.141 0.336455 1.41386 0 0 11.158 -18.5658 1.99187 -13.7317 -2.14774 -12.0642 0 0 0 0 0 0 0 0 
+0 0 0 0 2.67848 -0.205838 -8.32071 1.68883 0 0 0 0 0.939204 0.336455 15.1162 -7.53061 0 0 0 0 -5.6552 5.1799 -4.75798 0.531259 0 0 0 0 0 0 0 0 
+0 0 0 0 -0.205838 0.100768 1.68883 -28.3978 0 0 0 0 0.336455 1.41386 -7.53061 61.9222 0 0 0 0 5.1799 -16.849 0.531259 -18.19 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 -7.82282 0.0190058 -86.4564 18.1579 0 0 0 0 176.172 -47.586 1.87085 0.00410511 0 0 0 0 -80.5753 25.628 -3.18808 3.77694 0 0 0 0 
+0 0 0 0 0 0 0 0 0.0190058 -27.4684 18.1579 -33.6768 0 0 0 0 -47.586 105.983 0.00410511 1.95669 0 0 0 0 25.628 -42.7859 3.77694 -4.00853 0 0 0 0 
+0 0 0 0 0 0 0 0 -5.88616 -1.27702 -81.8264 17.3583 -18.0768 11.158 0 0 1.87085 0.00410511 206.311 -55.7138 -8.82732 0.425438 0 0 -85.0225 26.7872 -6.96584 4.4086 -1.57639 -3.15071 0 0 
+0 0 0 0 0 0 0 0 -1.27702 -25.3243 17.3583 -33.3784 11.158 -18.5658 0 0 0.00410511 1.95669 -55.7138 130.467 0.425438 -1.64258 0 0 26.7872 -43.0695 4.4086 -6.67795 -3.15071 -3.76489 0 0 
+0 0 0 0 0 0 0 0 0 0 -31.0713 10.2779 -3.7545 1.99187 -5.6552 5.1799 0 0 -8.82732 0.425438 93.7307 -24.4521 -0.456717 -0.0403087 0 0 -33.3123 10.7188 -2.67816 2.68877 -7.97524 -6.79024 
+0 0 0 0 0 0 0 0 0 0 10.2779 -14.1623 1.99187 -13.7317 5.1799 -16.849 0 0 0.425438 -1.64258 -24.4521 85.5922 -0.0403087 1.17977 0 0 10.7188 -15.033 2.68877 -6.3882 -6.79024 -18.9652 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.93693 -2.14774 -4.75798 0.531259 0 0 0 0 -0.456717 -0.0403087 20.1791 -1.90351 0 0 0 0 -7.62459 5.50699 -5.40293 -1.94669 
+0 0 0 0 0 0 0 0 0 0 0 0 -2.14774 -12.0642 0.531259 -18.19 0 0 0 0 -0.0403087 1.17977 -1.90351 54.7149 0 0 0 0 5.50699 -6.5149 -1.94669 -19.1255 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -80.5753 25.628 -85.0225 26.7872 0 0 0 0 100207 -60.5828 -41.044 8.16759 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25.628 -42.7859 26.7872 -43.0695 0 0 0 0 -60.5828 100101 8.16759 -15.5362 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.18808 3.77694 -6.96584 4.4086 -33.3123 10.7188 0 0 -41.044 8.16759 102.29 -26.9303 -17.7796 -0.14155 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.77694 -4.00853 4.4086 -6.67795 10.7188 -15.033 0 0 8.16759 -15.5362 -26.9303 45.8509 -0.14155 -4.59523 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.57639 -3.15071 -2.67816 2.68877 -7.62459 5.50699 0 0 -17.7796 -0.14155 42.191 -0.393869 -12.5322 -4.50963 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.15071 -3.76489 2.68877 -6.3882 5.50699 -6.5149 0 0 -0.14155 -4.59523 -0.393869 27.1441 -4.50963 -5.88091 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -7.97524 -6.79024 -5.40293 -1.94669 0 0 0 0 -12.5322 -4.50963 100026 13.2466 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -6.79024 -18.9652 -1.94669 -19.1255 0 0 0 0 -4.50963 -5.88091 13.2466 100044 
+
+ psd: 1
+iter: 4   obj = 4020.96   ||lambda||^2 = 1985.14   n_projection_steps = 0
+ H = 100520 139.439 -90.0236 -22.2893 0 0 0 0 -83.4658 -28.2445 -346.752 -88.9049 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+139.439 100247 -22.2893 -39.9942 0 0 0 0 -28.2445 -47.0036 -88.9049 -160.397 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-90.0236 -22.2893 201.829 51.075 -20.2883 -0.712404 0 0 3.18849 0.453152 -81.4781 -22.1351 -13.2276 -6.39135 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-22.2893 -39.9942 51.075 88.4683 -0.712404 -5.475 0 0 0.453152 2.37256 -22.1351 -38.2592 -6.39135 -7.11256 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -20.2883 -0.712404 38.0766 7.84336 -3.13172 1.39958 0 0 -17.4088 -9.74085 -0.330144 1.21799 3.08225 -0.007673 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -0.712404 -5.475 7.84336 34.1241 1.39958 -12.5836 0 0 -9.74085 -14.1094 1.21799 -3.20288 -0.007673 1.24688 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 -3.13172 1.39958 100021 -8.89952 0 0 0 0 -10.0265 5.51541 -8.25138 1.98453 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1.39958 -12.5836 -8.89952 100074 0 0 0 0 5.51541 -33.0715 1.98453 -27.9629 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-83.4658 -28.2445 3.18849 0.453152 0 0 0 0 183.067 44.797 -88.9773 -15.7411 0 0 0 0 -8.06876 -0.0267222 -5.74319 -1.23784 0 0 0 0 0 0 0 0 0 0 0 0 
+-28.2445 -47.0036 0.453152 2.37256 0 0 0 0 44.797 131.649 -15.7411 -33.901 0 0 0 0 -0.0267222 -28.2061 -1.23784 -24.9112 0 0 0 0 0 0 0 0 0 0 0 0 
+-346.752 -88.9049 -81.4781 -22.1351 -17.4088 -9.74085 0 0 -88.9773 -15.7411 100760 94.461 -23.3216 -4.25414 0 0 -87.7323 18.7885 -83.2334 17.3703 -31.3969 10.1562 0 0 0 0 0 0 0 0 0 0 
+-88.9049 -160.397 -22.1351 -38.2592 -9.74085 -14.1094 0 0 -15.7411 -33.901 94.461 100337 -4.25414 -7.90159 0 0 18.7885 -34.5326 17.3703 -33.7266 10.1562 -14.0397 0 0 0 0 0 0 0 0 0 0 
+0 0 -13.2276 -6.39135 -0.330144 1.21799 -10.0265 5.51541 0 0 -23.3216 -4.25414 69.9008 -7.83216 1.20912 0.314977 0 0 -18.5949 11.3597 -3.74912 2.02396 -1.86002 -1.95438 0 0 0 0 0 0 0 0 
+0 0 -6.39135 -7.11256 1.21799 -3.20288 5.51541 -33.0715 0 0 -4.25414 -7.90159 -7.83216 94.4919 0.314977 1.44532 0 0 11.3597 -18.8467 2.02396 -13.6574 -1.95438 -12.1446 0 0 0 0 0 0 0 0 
+0 0 0 0 3.08225 -0.007673 -8.25138 1.98453 0 0 0 0 1.20912 0.314977 14.2386 -7.36968 0 0 0 0 -5.31498 4.79773 -4.96357 0.28011 0 0 0 0 0 0 0 0 
+0 0 0 0 -0.007673 1.24688 1.98453 -27.9629 0 0 0 0 0.314977 1.44532 -7.36968 61.2756 0 0 0 0 4.79773 -17.1367 0.28011 -18.8681 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 -8.06876 -0.0267222 -87.7323 18.7885 0 0 0 0 179.722 -48.0025 1.88055 0.0276933 0 0 0 0 -82.6049 25.6803 -3.19665 3.53265 0 0 0 0 
+0 0 0 0 0 0 0 0 -0.0267222 -28.2061 18.7885 -34.5326 0 0 0 0 -48.0025 106.784 0.0276933 1.94678 0 0 0 0 25.6803 -43.0493 3.53265 -2.94306 0 0 0 0 
+0 0 0 0 0 0 0 0 -5.74319 -1.23784 -83.2334 17.3703 -18.5949 11.3597 0 0 1.88055 0.0276933 210.455 -56.5793 -9.12437 0.486811 0 0 -87.0668 27.4142 -7.08675 4.2621 -1.48609 -3.10365 0 0 
+0 0 0 0 0 0 0 0 -1.23784 -24.9112 17.3703 -33.7266 11.3597 -18.8467 0 0 0.0276933 1.94678 -56.5793 131.219 0.486811 -1.75079 0 0 27.4142 -44.1671 4.2621 -6.08011 -3.10365 -3.6833 0 0 
+0 0 0 0 0 0 0 0 0 0 -31.3969 10.1562 -3.74912 2.02396 -5.31498 4.79773 0 0 -9.12437 0.486811 95.131 -23.9485 -0.268953 -0.0641404 0 0 -34.4364 10.4374 -2.89344 2.82063 -7.94692 -6.71008 
+0 0 0 0 0 0 0 0 0 0 10.1562 -14.0397 2.02396 -13.6574 4.79773 -17.1367 0 0 0.486811 -1.75079 -23.9485 86.3073 -0.0641404 1.24005 0 0 10.4374 -14.8345 2.82063 -6.52803 -6.71008 -19.6002 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.86002 -1.95438 -4.96357 0.28011 0 0 0 0 -0.268953 -0.0641404 20.2741 -1.783 0 0 0 0 -7.61828 5.48815 -5.56326 -1.96674 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.95438 -12.1446 0.28011 -18.8681 0 0 0 0 -0.0641404 1.24005 -1.783 55.8386 0 0 0 0 5.48815 -6.45688 -1.96674 -19.609 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -82.6049 25.6803 -87.0668 27.4142 0 0 0 0 100211 -62.1683 -41.7664 9.07387 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25.6803 -43.0493 27.4142 -44.1671 0 0 0 0 -62.1683 100104 9.07387 -16.4811 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.19665 3.53265 -7.08675 4.2621 -34.4364 10.4374 0 0 -41.7664 9.07387 104.71 -26.7587 -18.2242 -0.547253 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.53265 -2.94306 4.2621 -6.08011 10.4374 -14.8345 0 0 9.07387 -16.4811 -26.7587 45.1098 -0.547253 -4.77103 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.48609 -3.10365 -2.89344 2.82063 -7.61828 5.48815 0 0 -18.2242 -0.547253 42.8469 0.0101289 -12.6249 -4.66801 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.10365 -3.6833 2.82063 -6.52803 5.48815 -6.45688 0 0 -0.547253 -4.77103 0.0101289 27.5651 -4.66801 -6.12584 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -7.94692 -6.71008 -5.56326 -1.96674 0 0 0 0 -12.6249 -4.66801 100026 13.3448 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -6.71008 -19.6002 -1.96674 -19.609 0 0 0 0 -4.66801 -6.12584 13.3448 100045 
+
+ psd: 1
+iter: 5   obj = 3090.44   ||lambda||^2 = 124.046   n_projection_steps = 0
+ H = 100523 140.164 -90.5721 -22.4329 0 0 0 0 -83.9976 -28.4332 -348.484 -89.2975 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+140.164 100249 -22.4329 -40.2559 0 0 0 0 -28.4332 -47.3294 -89.2975 -161.156 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-90.5721 -22.4329 202.874 51.4638 -20.3781 -0.91214 0 0 3.18363 0.455548 -81.7995 -22.1891 -13.3081 -6.38531 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-22.4329 -40.2559 51.4638 88.9018 -0.91214 -5.53381 0 0 0.455548 2.36005 -22.1891 -38.3769 -6.38531 -7.09527 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -20.3781 -0.91214 38.0695 7.90003 -3.30903 1.38856 0 0 -17.3453 -9.59252 -0.21657 1.17226 3.17951 0.0438084 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -0.91214 -5.53381 7.90003 33.7377 1.38856 -13.1591 0 0 -9.59252 -13.7082 1.17226 -2.87982 0.0438084 1.54321 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 -3.30903 1.38856 100022 -8.9311 0 0 0 0 -9.98463 5.44096 -8.2296 2.10157 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1.38856 -13.1591 -8.9311 100074 0 0 0 0 5.44096 -33.0842 2.10157 -27.7961 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-83.9976 -28.4332 3.18363 0.455548 0 0 0 0 183.978 44.9963 -89.322 -15.7509 0 0 0 0 -8.1322 -0.0382449 -5.70965 -1.22944 0 0 0 0 0 0 0 0 0 0 0 0 
+-28.4332 -47.3294 0.455548 2.36005 0 0 0 0 44.9963 132.18 -15.7509 -34.0009 0 0 0 0 -0.0382449 -28.3963 -1.22944 -24.8138 0 0 0 0 0 0 0 0 0 0 0 0 
+-348.484 -89.2975 -81.7995 -22.1891 -17.3453 -9.59252 0 0 -89.322 -15.7509 100763 94.681 -23.3859 -4.29767 0 0 -88.0649 18.9491 -83.5923 17.3748 -31.4952 10.1226 0 0 0 0 0 0 0 0 0 0 
+-89.2975 -161.156 -22.1891 -38.3769 -9.59252 -13.7082 0 0 -15.7509 -34.0009 94.681 100338 -4.29767 -7.9498 0 0 18.9491 -34.7536 17.3748 -33.8174 10.1226 -14.0084 0 0 0 0 0 0 0 0 0 0 
+0 0 -13.3081 -6.38531 -0.21657 1.17226 -9.98463 5.44096 0 0 -23.3859 -4.29767 69.9272 -7.79782 1.28637 0.304541 0 0 -18.734 11.4175 -3.75208 2.03657 -1.83222 -1.891 0 0 0 0 0 0 0 0 
+0 0 -6.38531 -7.09527 1.17226 -2.87982 5.44096 -33.0842 0 0 -4.29767 -7.9498 -7.79782 94.2947 0.304541 1.4515 0 0 11.4175 -18.9377 2.03657 -13.6448 -1.891 -12.1546 0 0 0 0 0 0 0 0 
+0 0 0 0 3.17951 0.0438084 -8.2296 2.10157 0 0 0 0 1.28637 0.304541 14.0048 -7.3157 0 0 0 0 -5.21586 4.67198 -5.02519 0.193788 0 0 0 0 0 0 0 0 
+0 0 0 0 0.0438084 1.54321 2.10157 -27.7961 0 0 0 0 0.304541 1.4515 -7.3157 61.1062 0 0 0 0 4.67198 -17.24 0.193788 -19.0649 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 -8.1322 -0.0382449 -88.0649 18.9491 0 0 0 0 180.626 -48.098 1.88144 0.0331404 0 0 0 0 -83.1059 25.6895 -3.20436 3.46446 0 0 0 0 
+0 0 0 0 0 0 0 0 -0.0382449 -28.3963 18.9491 -34.7536 0 0 0 0 -48.098 107.014 0.0331404 1.94072 0 0 0 0 25.6895 -43.1129 3.46446 -2.69139 0 0 0 0 
+0 0 0 0 0 0 0 0 -5.70965 -1.22944 -83.5923 17.3748 -18.734 11.4175 0 0 1.88144 0.0331404 211.496 -56.8043 -9.19026 0.505999 0 0 -87.5758 27.5698 -7.11856 4.22101 -1.45735 -3.08849 0 0 
+0 0 0 0 0 0 0 0 -1.22944 -24.8138 17.3748 -33.8174 11.4175 -18.9377 0 0 0.0331404 1.94072 -56.8043 131.431 0.505999 -1.77592 0 0 27.5698 -44.4399 4.22101 -5.93156 -3.08849 -3.65554 0 0 
+0 0 0 0 0 0 0 0 0 0 -31.4952 10.1226 -3.75208 2.03657 -5.21586 4.67198 0 0 -9.19026 0.505999 95.4745 -23.7902 -0.212059 -0.0679407 0 0 -34.7067 10.3633 -2.94893 2.85394 -7.95342 -6.69636 
+0 0 0 0 0 0 0 0 0 0 10.1226 -14.0084 2.03657 -13.6448 4.67198 -17.24 0 0 0.505999 -1.77592 -23.7902 86.5418 -0.0679407 1.25847 0 0 10.3633 -14.7871 2.85394 -6.56628 -6.69636 -19.7777 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.83222 -1.891 -5.02519 0.193788 0 0 0 0 -0.212059 -0.0679407 20.2867 -1.72579 0 0 0 0 -7.5969 5.48076 -5.62033 -1.98981 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.891 -12.1546 0.193788 -19.0649 0 0 0 0 -0.0679407 1.25847 -1.72579 56.17 0 0 0 0 5.48076 -6.44653 -1.98981 -19.7625 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -83.1059 25.6895 -87.5758 27.5698 0 0 0 0 100213 -62.5657 -41.9496 9.30632 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25.6895 -43.1129 27.5698 -44.4399 0 0 0 0 -62.5657 100104 9.30632 -16.7334 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.20436 3.46446 -7.11856 4.22101 -34.7067 10.3633 0 0 -41.9496 9.30632 105.307 -26.7048 -18.3273 -0.650345 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.46446 -2.69139 4.22101 -5.93156 10.3633 -14.7871 0 0 9.30632 -16.7334 -26.7048 44.9609 -0.650345 -4.81741 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.45735 -3.08849 -2.94893 2.85394 -7.5969 5.48076 0 0 -18.3273 -0.650345 42.9908 0.115934 -12.6603 -4.71181 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.08849 -3.65554 2.85394 -6.56628 5.48076 -6.44653 0 0 -0.650345 -4.81741 0.115934 27.6813 -4.71181 -6.19555 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -7.95342 -6.69636 -5.62033 -1.98981 0 0 0 0 -12.6603 -4.71181 100026 13.398 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -6.69636 -19.7777 -1.98981 -19.7625 0 0 0 0 -4.71181 -6.19555 13.398 100046 
+
+ psd: 1
+iter: 6   obj = 3032.29   ||lambda||^2 = 7.75252   n_projection_steps = 0
+ H = 100524 140.345 -90.7095 -22.4689 0 0 0 0 -84.1302 -28.4803 -348.917 -89.3957 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+140.345 100249 -22.4689 -40.3216 0 0 0 0 -28.4803 -47.4107 -89.3957 -161.346 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-90.7095 -22.4689 203.136 51.5624 -20.4005 -0.963838 0 0 3.18241 0.456159 -81.8799 -22.2024 -13.3282 -6.38332 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-22.4689 -40.3216 51.5624 89.0109 -0.963838 -5.5499 0 0 0.456159 2.357 -22.2024 -38.4062 -6.38332 -7.09015 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -20.4005 -0.963838 38.0696 7.91472 -3.35551 1.38593 0 0 -17.3291 -9.55394 -0.187577 1.16038 3.20313 0.0567436 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -0.963838 -5.5499 7.91472 33.6446 1.38593 -13.3091 0 0 -9.55394 -13.6055 1.16038 -2.79761 0.0567436 1.61749 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 -3.35551 1.38593 100022 -8.94243 0 0 0 0 -9.97353 5.42209 -8.2241 2.13442 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1.38593 -13.3091 -8.94243 100074 0 0 0 0 5.42209 -33.0853 2.13442 -27.7499 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-84.1302 -28.4803 3.18241 0.456159 0 0 0 0 184.206 45.0462 -89.4089 -15.7535 0 0 0 0 -8.14816 -0.0411078 -5.70139 -1.22743 0 0 0 0 0 0 0 0 0 0 0 0 
+-28.4803 -47.4107 0.456159 2.357 0 0 0 0 45.0462 132.314 -15.7535 -34.0263 0 0 0 0 -0.0411078 -28.4441 -1.22743 -24.7898 0 0 0 0 0 0 0 0 0 0 0 0 
+-348.917 -89.3957 -81.8799 -22.2024 -17.3291 -9.55394 0 0 -89.4089 -15.7535 100764 94.7354 -23.4019 -4.30911 0 0 -88.149 18.9894 -83.6823 17.376 -31.5209 10.1139 0 0 0 0 0 0 0 0 0 0 
+-89.3957 -161.346 -22.2024 -38.4062 -9.55394 -13.6055 0 0 -15.7535 -34.0263 94.7354 100338 -4.30911 -7.96226 0 0 18.9894 -34.8093 17.376 -33.8402 10.1139 -14.0004 0 0 0 0 0 0 0 0 0 0 
+0 0 -13.3282 -6.38332 -0.187577 1.16038 -9.97353 5.42209 0 0 -23.4019 -4.30911 69.9322 -7.79028 1.30631 0.301438 0 0 -18.7697 11.4325 -3.75316 2.04009 -1.82453 -1.8738 0 0 0 0 0 0 0 0 
+0 0 -6.38332 -7.09015 1.16038 -2.79761 5.42209 -33.0853 0 0 -4.30911 -7.96226 -7.79028 94.2429 0.301438 1.45284 0 0 11.4325 -18.962 2.04009 -13.6421 -1.8738 -12.1562 0 0 0 0 0 0 0 0 
+0 0 0 0 3.20313 0.0567436 -8.2241 2.13442 0 0 0 0 1.30631 0.301438 13.946 -7.30066 0 0 0 0 -5.18989 4.63783 -5.04147 0.170231 0 0 0 0 0 0 0 0 
+0 0 0 0 0.0567436 1.61749 2.13442 -27.7499 0 0 0 0 0.301438 1.45284 -7.30066 61.064 0 0 0 0 4.63783 -17.2683 0.170231 -19.1162 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 -8.14816 -0.0411078 -88.149 18.9894 0 0 0 0 180.853 -48.1214 1.88157 0.034476 0 0 0 0 -83.2307 25.6916 -3.20666 3.447 0 0 0 0 
+0 0 0 0 0 0 0 0 -0.0411078 -28.4441 18.9894 -34.8093 0 0 0 0 -48.1214 107.073 0.034476 1.93898 0 0 0 0 25.6916 -43.1288 3.447 -2.62958 0 0 0 0 
+0 0 0 0 0 0 0 0 -5.70139 -1.22743 -83.6823 17.376 -18.7697 11.4325 0 0 1.88157 0.034476 211.757 -56.8614 -9.20616 0.511085 0 0 -87.703 27.6088 -7.12666 4.2105 -1.44978 -3.08449 0 0 
+0 0 0 0 0 0 0 0 -1.22743 -24.7898 17.376 -33.8402 11.4325 -18.962 0 0 0.034476 1.93898 -56.8614 131.486 0.511085 -1.78208 0 0 27.6088 -44.508 4.2105 -5.89465 -3.08449 -3.64823 0 0 
+0 0 0 0 0 0 0 0 0 0 -31.5209 10.1139 -3.75316 2.04009 -5.18989 4.63783 0 0 -9.20616 0.511085 95.5595 -23.748 -0.196885 -0.0687195 0 0 -34.7736 10.3448 -2.96299 2.86234 -7.95598 -6.69337 
+0 0 0 0 0 0 0 0 0 0 10.1139 -14.0004 2.04009 -13.6421 4.63783 -17.2683 0 0 0.511085 -1.78208 -23.748 86.6049 -0.0687195 1.2634 0 0 10.3448 -14.7756 2.86234 -6.57628 -6.69337 -19.8235 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.82453 -1.8738 -5.04147 0.170231 0 0 0 0 -0.196885 -0.0687195 20.2886 -1.70923 0 0 0 0 -7.58973 5.47867 -5.63603 -1.99715 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.8738 -12.1562 0.170231 -19.1162 0 0 0 0 -0.0687195 1.2634 -1.70923 56.2569 0 0 0 0 5.47867 -6.44436 -1.99715 -19.8035 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -83.2307 25.6916 -87.703 27.6088 0 0 0 0 100213 -62.6651 -41.9956 9.3647 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25.6916 -43.1288 27.6088 -44.508 0 0 0 0 -62.6651 100104 9.3647 -16.7974 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.20666 3.447 -7.12666 4.2105 -34.7736 10.3448 0 0 -41.9956 9.3647 105.455 -26.6908 -18.3525 -0.676178 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.447 -2.62958 4.2105 -5.89465 10.3448 -14.7756 0 0 9.3647 -16.7974 -26.6908 44.9264 -0.676178 -4.82912 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.44978 -3.08449 -2.96299 2.86234 -7.58973 5.47867 0 0 -18.3525 -0.676178 43.025 0.142657 -12.67 -4.723 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.08449 -3.64823 2.86234 -6.57628 5.47867 -6.44436 0 0 -0.676178 -4.82912 0.142657 27.7115 -4.723 -6.21349 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -7.95598 -6.69337 -5.63603 -1.99715 0 0 0 0 -12.67 -4.723 100026 13.4135 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -6.69337 -19.8235 -1.99715 -19.8035 0 0 0 0 -4.723 -6.21349 13.4135 100046 
+
+ psd: 1
+iter: 7   obj = 3028.66   ||lambda||^2 = 0.484527   n_projection_steps = 0
+ H = 100524 140.39 -90.7439 -22.478 0 0 0 0 -84.1633 -28.492 -349.025 -89.4203 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+140.39 100249 -22.478 -40.3381 0 0 0 0 -28.492 -47.431 -89.4203 -161.394 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-90.7439 -22.478 203.201 51.5871 -20.4061 -0.976874 0 0 3.1821 0.456313 -81.9 -22.2058 -13.3332 -6.3828 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-22.478 -40.3381 51.5871 89.0382 -0.976874 -5.55402 0 0 0.456313 2.35624 -22.2058 -38.4135 -6.3828 -7.08881 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -20.4061 -0.976874 38.0698 7.91843 -3.36727 1.38527 0 0 -17.3251 -9.54419 -0.180292 1.15738 3.20898 0.059979 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -0.976874 -5.55402 7.91843 33.6215 1.38527 -13.3469 0 0 -9.54419 -13.5797 1.15738 -2.77697 0.059979 1.63606 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 -3.36727 1.38527 100022 -8.94549 0 0 0 0 -9.97071 5.41735 -8.22273 2.14287 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1.38527 -13.3469 -8.94549 100074 0 0 0 0 5.41735 -33.0855 2.14287 -27.7381 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-84.1633 -28.492 3.1821 0.456313 0 0 0 0 184.263 45.0586 -89.4307 -15.7542 0 0 0 0 -8.15215 -0.0418221 -5.69933 -1.22693 0 0 0 0 0 0 0 0 0 0 0 0 
+-28.492 -47.431 0.456313 2.35624 0 0 0 0 45.0586 132.347 -15.7542 -34.0326 0 0 0 0 -0.0418221 -28.4561 -1.22693 -24.7838 0 0 0 0 0 0 0 0 0 0 0 0 
+-349.025 -89.4203 -81.9 -22.2058 -17.3251 -9.54419 0 0 -89.4307 -15.7542 100764 94.7489 -23.4059 -4.312 0 0 -88.17 18.9995 -83.7049 17.3763 -31.5274 10.1117 0 0 0 0 0 0 0 0 0 0 
+-89.4203 -161.394 -22.2058 -38.4135 -9.54419 -13.5797 0 0 -15.7542 -34.0326 94.7489 100338 -4.312 -7.9654 0 0 18.9995 -34.8232 17.3763 -33.8459 10.1117 -13.9984 0 0 0 0 0 0 0 0 0 0 
+0 0 -13.3332 -6.3828 -0.180292 1.15738 -9.97071 5.41735 0 0 -23.4059 -4.312 69.9334 -7.78847 1.31133 0.300628 0 0 -18.7787 11.4363 -3.75346 2.04099 -1.82256 -1.86941 0 0 0 0 0 0 0 0 
+0 0 -6.3828 -7.08881 1.15738 -2.77697 5.41735 -33.0855 0 0 -4.312 -7.9654 -7.78847 94.2298 0.300628 1.45316 0 0 11.4363 -18.9682 2.04099 -13.6415 -1.86941 -12.1566 0 0 0 0 0 0 0 0 
+0 0 0 0 3.20898 0.059979 -8.22273 2.14287 0 0 0 0 1.31133 0.300628 13.9313 -7.29678 0 0 0 0 -5.18332 4.6291 -5.04559 0.164209 0 0 0 0 0 0 0 0 
+0 0 0 0 0.059979 1.63606 2.14287 -27.7381 0 0 0 0 0.300628 1.45316 -7.29678 61.0535 0 0 0 0 4.6291 -17.2755 0.164209 -19.1291 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 -8.15215 -0.0418221 -88.17 18.9995 0 0 0 0 180.91 -48.1272 1.88159 0.0348083 0 0 0 0 -83.2619 25.6921 -3.20726 3.44262 0 0 0 0 
+0 0 0 0 0 0 0 0 -0.0418221 -28.4561 18.9995 -34.8232 0 0 0 0 -48.1272 107.088 0.0348083 1.93853 0 0 0 0 25.6921 -43.1327 3.44262 -2.61419 0 0 0 0 
+0 0 0 0 0 0 0 0 -5.69933 -1.22693 -83.7049 17.3763 -18.7787 11.4363 0 0 1.88159 0.0348083 211.823 -56.8757 -9.2101 0.512376 0 0 -87.7348 27.6185 -7.12869 4.20786 -1.44787 -3.08348 0 0 
+0 0 0 0 0 0 0 0 -1.22693 -24.7838 17.3763 -33.8459 11.4363 -18.9682 0 0 0.0348083 1.93853 -56.8757 131.5 0.512376 -1.78361 0 0 27.6185 -44.525 4.20786 -5.88544 -3.08348 -3.64638 0 0 
+0 0 0 0 0 0 0 0 0 0 -31.5274 10.1117 -3.75346 2.04099 -5.18332 4.6291 0 0 -9.2101 0.512376 95.5807 -23.7373 -0.193026 -0.0689029 0 0 -34.7902 10.3402 -2.96651 2.86445 -7.95669 -6.69266 
+0 0 0 0 0 0 0 0 0 0 10.1117 -13.9984 2.04099 -13.6415 4.6291 -17.2755 0 0 0.512376 -1.78361 -23.7373 86.621 -0.0689029 1.26466 0 0 10.3402 -14.7728 2.86445 -6.57881 -6.69266 -19.835 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.82256 -1.86941 -5.04559 0.164209 0 0 0 0 -0.193026 -0.0689029 20.289 -1.70494 0 0 0 0 -7.5878 5.47813 -5.64006 -1.99909 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.86941 -12.1566 0.164209 -19.1291 0 0 0 0 -0.0689029 1.26466 -1.70494 56.2788 0 0 0 0 5.47813 -6.44384 -1.99909 -19.814 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -83.2619 25.6921 -87.7348 27.6185 0 0 0 0 100213 -62.6899 -42.0072 9.37931 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25.6921 -43.1327 27.6185 -44.525 0 0 0 0 -62.6899 100104 9.37931 -16.8135 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.20726 3.44262 -7.12869 4.20786 -34.7902 10.3402 0 0 -42.0072 9.37931 105.492 -26.6873 -18.3587 -0.682639 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.44262 -2.61419 4.20786 -5.88544 10.3402 -14.7728 0 0 9.37931 -16.8135 -26.6873 44.9179 -0.682639 -4.83206 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.44787 -3.08348 -2.96651 2.86445 -7.5878 5.47813 0 0 -18.3587 -0.682639 43.0334 0.149354 -12.6725 -4.72582 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.08348 -3.64638 2.86445 -6.57881 5.47813 -6.44384 0 0 -0.682639 -4.83206 0.149354 27.7191 -4.72582 -6.218 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -7.95669 -6.69266 -5.64006 -1.99909 0 0 0 0 -12.6725 -4.72582 100026 13.4176 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -6.69266 -19.835 -1.99909 -19.814 0 0 0 0 -4.72582 -6.218 13.4176 100046 
+
+ psd: 1
+iter: 8   obj = 3028.43   ||lambda||^2 = 0.0302829   n_projection_steps = 0
+ H = 100524 140.402 -90.7525 -22.4802 0 0 0 0 -84.1715 -28.495 -349.053 -89.4264 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+140.402 100249 -22.4802 -40.3422 0 0 0 0 -28.495 -47.436 -89.4264 -161.406 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-90.7525 -22.4802 203.217 51.5933 -20.4075 -0.98014 0 0 3.18203 0.456352 -81.905 -22.2066 -13.3345 -6.38266 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-22.4802 -40.3422 51.5933 89.045 -0.98014 -5.55505 0 0 0.456352 2.35605 -22.2066 -38.4153 -6.38266 -7.08848 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -20.4075 -0.98014 38.0698 7.91936 -3.37022 1.38511 0 0 -17.324 -9.54175 -0.178469 1.15663 3.21043 0.0607879 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -0.98014 -5.55505 7.91936 33.6158 1.38511 -13.3564 0 0 -9.54175 -13.5732 1.15663 -2.77181 0.0607879 1.6407 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 -3.37022 1.38511 100022 -8.94627 0 0 0 0 -9.97 5.41616 -8.22239 2.145 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1.38511 -13.3564 -8.94627 100074 0 0 0 0 5.41616 -33.0855 2.145 -27.7351 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-84.1715 -28.495 3.18203 0.456352 0 0 0 0 184.278 45.0618 -89.4362 -15.7543 0 0 0 0 -8.15315 -0.0420006 -5.69882 -1.22681 0 0 0 0 0 0 0 0 0 0 0 0 
+-28.495 -47.436 0.456352 2.35605 0 0 0 0 45.0618 132.356 -15.7543 -34.0342 0 0 0 0 -0.0420006 -28.4591 -1.22681 -24.7823 0 0 0 0 0 0 0 0 0 0 0 0 
+-349.053 -89.4264 -81.905 -22.2066 -17.324 -9.54175 0 0 -89.4362 -15.7543 100765 94.7523 -23.4069 -4.31273 0 0 -88.1753 19.002 -83.7105 17.3763 -31.529 10.1112 0 0 0 0 0 0 0 0 0 0 
+-89.4264 -161.406 -22.2066 -38.4153 -9.54175 -13.5732 0 0 -15.7543 -34.0342 94.7523 100338 -4.31273 -7.96618 0 0 19.002 -34.8267 17.3763 -33.8474 10.1112 -13.9979 0 0 0 0 0 0 0 0 0 0 
+0 0 -13.3345 -6.38266 -0.178469 1.15663 -9.97 5.41616 0 0 -23.4069 -4.31273 69.9337 -7.78802 1.31259 0.300423 0 0 -18.7809 11.4373 -3.75353 2.04122 -1.82206 -1.8683 0 0 0 0 0 0 0 0 
+0 0 -6.38266 -7.08848 1.15663 -2.77181 5.41616 -33.0855 0 0 -4.31273 -7.96618 -7.78802 94.2265 0.300423 1.45323 0 0 11.4373 -18.9698 2.04122 -13.6413 -1.8683 -12.1567 0 0 0 0 0 0 0 0 
+0 0 0 0 3.21043 0.0607879 -8.22239 2.145 0 0 0 0 1.31259 0.300423 13.9277 -7.29581 0 0 0 0 -5.18168 4.62691 -5.04663 0.162695 0 0 0 0 0 0 0 0 
+0 0 0 0 0.0607879 1.6407 2.145 -27.7351 0 0 0 0 0.300423 1.45323 -7.29581 61.0509 0 0 0 0 4.62691 -17.2773 0.162695 -19.1324 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 -8.15315 -0.0420006 -88.1753 19.002 0 0 0 0 180.924 -48.1287 1.8816 0.0348913 0 0 0 0 -83.2697 25.6923 -3.20741 3.44152 0 0 0 0 
+0 0 0 0 0 0 0 0 -0.0420006 -28.4591 19.002 -34.8267 0 0 0 0 -48.1287 107.091 0.0348913 1.93842 0 0 0 0 25.6923 -43.1337 3.44152 -2.61035 0 0 0 0 
+0 0 0 0 0 0 0 0 -5.69882 -1.22681 -83.7105 17.3763 -18.7809 11.4373 0 0 1.8816 0.0348913 211.839 -56.8793 -9.21108 0.5127 0 0 -87.7428 27.6209 -7.1292 4.2072 -1.44739 -3.08323 0 0 
+0 0 0 0 0 0 0 0 -1.22681 -24.7823 17.3763 -33.8474 11.4373 -18.9698 0 0 0.0348913 1.93842 -56.8793 131.503 0.5127 -1.78399 0 0 27.6209 -44.5293 4.2072 -5.88314 -3.08323 -3.64592 0 0 
+0 0 0 0 0 0 0 0 0 0 -31.529 10.1112 -3.75353 2.04122 -5.18168 4.62691 0 0 -9.21108 0.5127 95.586 -23.7346 -0.192056 -0.068948 0 0 -34.7944 10.339 -2.9674 2.86497 -7.95686 -6.69248 
+0 0 0 0 0 0 0 0 0 0 10.1112 -13.9979 2.04122 -13.6413 4.62691 -17.2773 0 0 0.5127 -1.78399 -23.7346 86.625 -0.068948 1.26497 0 0 10.339 -14.7721 2.86497 -6.57945 -6.69248 -19.8379 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.82206 -1.8683 -5.04663 0.162695 0 0 0 0 -0.192056 -0.068948 20.2891 -1.70386 0 0 0 0 -7.58732 5.478 -5.64107 -1.99958 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.8683 -12.1567 0.162695 -19.1324 0 0 0 0 -0.068948 1.26497 -1.70386 56.2843 0 0 0 0 5.478 -6.44371 -1.99958 -19.8166 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -83.2697 25.6923 -87.7428 27.6209 0 0 0 0 100213 -62.6961 -42.01 9.38297 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25.6923 -43.1337 27.6209 -44.5293 0 0 0 0 -62.6961 100104 9.38297 -16.8175 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.20741 3.44152 -7.1292 4.2072 -34.7944 10.339 0 0 -42.01 9.38297 105.501 -26.6864 -18.3603 -0.684254 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.44152 -2.61035 4.2072 -5.88314 10.339 -14.7721 0 0 9.38297 -16.8175 -26.6864 44.9158 -0.684254 -4.83279 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.44739 -3.08323 -2.9674 2.86497 -7.58732 5.478 0 0 -18.3603 -0.684254 43.0355 0.15103 -12.6731 -4.72652 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.08323 -3.64592 2.86497 -6.57945 5.478 -6.44371 0 0 -0.684254 -4.83279 0.15103 27.721 -4.72652 -6.21913 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -7.95686 -6.69248 -5.64107 -1.99958 0 0 0 0 -12.6731 -4.72652 100026 13.4186 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -6.69248 -19.8379 -1.99958 -19.8166 0 0 0 0 -4.72652 -6.21913 13.4186 100046 
+
+ psd: 1
+iter: 9   obj = 3028.42   ||lambda||^2 = 0.00189268   n_projection_steps = 0
+ H = 100524 140.404 -90.7546 -22.4808 0 0 0 0 -84.1736 -28.4957 -349.059 -89.428 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+140.404 100249 -22.4808 -40.3432 0 0 0 0 -28.4957 -47.4373 -89.428 -161.409 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-90.7546 -22.4808 203.222 51.5948 -20.4079 -0.980957 0 0 3.18201 0.456361 -81.9063 -22.2068 -13.3348 -6.38263 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-22.4808 -40.3432 51.5948 89.0467 -0.980957 -5.55531 0 0 0.456361 2.356 -22.2068 -38.4158 -6.38263 -7.08839 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -20.4079 -0.980957 38.0698 7.91959 -3.37096 1.38507 0 0 -17.3238 -9.54114 -0.178013 1.15644 3.2108 0.0609901 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -0.980957 -5.55531 7.91959 33.6143 1.38507 -13.3588 0 0 -9.54114 -13.5716 1.15644 -2.77052 0.0609901 1.64186 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 -3.37096 1.38507 100022 -8.94647 0 0 0 0 -9.96982 5.41587 -8.2223 2.14553 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1.38507 -13.3588 -8.94647 100074 0 0 0 0 5.41587 -33.0855 2.14553 -27.7344 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-84.1736 -28.4957 3.18201 0.456361 0 0 0 0 184.281 45.0625 -89.4375 -15.7544 0 0 0 0 -8.1534 -0.0420452 -5.69869 -1.22678 0 0 0 0 0 0 0 0 0 0 0 0 
+-28.4957 -47.4373 0.456361 2.356 0 0 0 0 45.0625 132.358 -15.7544 -34.0346 0 0 0 0 -0.0420452 -28.4599 -1.22678 -24.7819 0 0 0 0 0 0 0 0 0 0 0 0 
+-349.059 -89.428 -81.9063 -22.2068 -17.3238 -9.54114 0 0 -89.4375 -15.7544 100765 94.7532 -23.4071 -4.31291 0 0 -88.1766 19.0027 -83.7119 17.3763 -31.5294 10.111 0 0 0 0 0 0 0 0 0 0 
+-89.428 -161.409 -22.2068 -38.4158 -9.54114 -13.5716 0 0 -15.7544 -34.0346 94.7532 100338 -4.31291 -7.96638 0 0 19.0027 -34.8276 17.3763 -33.8477 10.111 -13.9978 0 0 0 0 0 0 0 0 0 0 
+0 0 -13.3348 -6.38263 -0.178013 1.15644 -9.96982 5.41587 0 0 -23.4071 -4.31291 69.9338 -7.78791 1.3129 0.300372 0 0 -18.7815 11.4375 -3.75355 2.04128 -1.82194 -1.86803 0 0 0 0 0 0 0 0 
+0 0 -6.38263 -7.08839 1.15644 -2.77052 5.41587 -33.0855 0 0 -4.31291 -7.96638 -7.78791 94.2257 0.300372 1.45325 0 0 11.4375 -18.9702 2.04128 -13.6413 -1.86803 -12.1567 0 0 0 0 0 0 0 0 
+0 0 0 0 3.2108 0.0609901 -8.2223 2.14553 0 0 0 0 1.3129 0.300372 13.9268 -7.29556 0 0 0 0 -5.18126 4.62636 -5.04689 0.162316 0 0 0 0 0 0 0 0 
+0 0 0 0 0.0609901 1.64186 2.14553 -27.7344 0 0 0 0 0.300372 1.45325 -7.29556 61.0502 0 0 0 0 4.62636 -17.2778 0.162316 -19.1332 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 -8.1534 -0.0420452 -88.1766 19.0027 0 0 0 0 180.927 -48.1291 1.8816 0.034912 0 0 0 0 -83.2716 25.6923 -3.20744 3.44124 0 0 0 0 
+0 0 0 0 0 0 0 0 -0.0420452 -28.4599 19.0027 -34.8276 0 0 0 0 -48.1291 107.092 0.034912 1.93839 0 0 0 0 25.6923 -43.134 3.44124 -2.60939 0 0 0 0 
+0 0 0 0 0 0 0 0 -5.69869 -1.22678 -83.7119 17.3763 -18.7815 11.4375 0 0 1.8816 0.034912 211.843 -56.8802 -9.21133 0.512781 0 0 -87.7448 27.6215 -7.12933 4.20704 -1.44727 -3.08316 0 0 
+0 0 0 0 0 0 0 0 -1.22678 -24.7819 17.3763 -33.8477 11.4375 -18.9702 0 0 0.034912 1.93839 -56.8802 131.504 0.512781 -1.78409 0 0 27.6215 -44.5304 4.20704 -5.88256 -3.08316 -3.6458 0 0 
+0 0 0 0 0 0 0 0 0 0 -31.5294 10.111 -3.75355 2.04128 -5.18126 4.62636 0 0 -9.21133 0.512781 95.5873 -23.7339 -0.191814 -0.0689593 0 0 -34.7954 10.3387 -2.96762 2.86511 -7.95691 -6.69244 
+0 0 0 0 0 0 0 0 0 0 10.111 -13.9978 2.04128 -13.6413 4.62636 -17.2778 0 0 0.512781 -1.78409 -23.7339 86.6261 -0.0689593 1.26505 0 0 10.3387 -14.7719 2.86511 -6.57961 -6.69244 -19.8387 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.82194 -1.86803 -5.04689 0.162316 0 0 0 0 -0.191814 -0.0689593 20.2892 -1.70359 0 0 0 0 -7.58719 5.47796 -5.64132 -1.9997 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.86803 -12.1567 0.162316 -19.1332 0 0 0 0 -0.0689593 1.26505 -1.70359 56.2857 0 0 0 0 5.47796 -6.44368 -1.9997 -19.8172 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -83.2716 25.6923 -87.7448 27.6215 0 0 0 0 100213 -62.6977 -42.0108 9.38388 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25.6923 -43.134 27.6215 -44.5304 0 0 0 0 -62.6977 100104 9.38388 -16.8185 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.20744 3.44124 -7.12933 4.20704 -34.7954 10.3387 0 0 -42.0108 9.38388 105.504 -26.6862 -18.3607 -0.684658 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.44124 -2.60939 4.20704 -5.88256 10.3387 -14.7719 0 0 9.38388 -16.8185 -26.6862 44.9153 -0.684658 -4.83297 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.44727 -3.08316 -2.96762 2.86511 -7.58719 5.47796 0 0 -18.3607 -0.684658 43.036 0.151449 -12.6732 -4.7267 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.08316 -3.6458 2.86511 -6.57961 5.47796 -6.44368 0 0 -0.684658 -4.83297 0.151449 27.7215 -4.7267 -6.21942 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -7.95691 -6.69244 -5.64132 -1.9997 0 0 0 0 -12.6732 -4.7267 100026 13.4188 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -6.69244 -19.8387 -1.9997 -19.8172 0 0 0 0 -4.7267 -6.21942 13.4188 100046 
+
+ psd: 1
+iter: 10   obj = 3028.42   ||lambda||^2 = 0.000118292   n_projection_steps = 0
+ H = 100524 140.405 -90.7553 -22.481 0 0 0 0 -84.1743 -28.496 -349.062 -89.4285 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+140.405 100249 -22.481 -40.3436 0 0 0 0 -28.496 -47.4377 -89.4285 -161.41 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-90.7553 -22.481 203.223 51.5954 -20.408 -0.981229 0 0 3.182 0.456365 -81.9067 -22.2069 -13.3349 -6.38262 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-22.481 -40.3436 51.5954 89.0473 -0.981229 -5.5554 0 0 0.456365 2.35599 -22.2069 -38.4159 -6.38262 -7.08836 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -20.408 -0.981229 38.0699 7.91967 -3.3712 1.38506 0 0 -17.3237 -9.54093 -0.177861 1.15638 3.21092 0.0610575 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 -0.981229 -5.5554 7.91967 33.6139 1.38506 -13.3596 0 0 -9.54093 -13.571 1.15638 -2.77008 0.0610575 1.64225 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 -3.3712 1.38506 100022 -8.94653 0 0 0 0 -9.96977 5.41577 -8.22228 2.14571 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1.38506 -13.3596 -8.94653 100074 0 0 0 0 5.41577 -33.0855 2.14571 -27.7341 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+-84.1743 -28.496 3.182 0.456365 0 0 0 0 184.282 45.0628 -89.438 -15.7544 0 0 0 0 -8.15349 -0.04206 -5.69865 -1.22676 0 0 0 0 0 0 0 0 0 0 0 0 
+-28.496 -47.4377 0.456365 2.35599 0 0 0 0 45.0628 132.358 -15.7544 -34.0347 0 0 0 0 -0.04206 -28.4601 -1.22676 -24.7818 0 0 0 0 0 0 0 0 0 0 0 0 
+-349.062 -89.4285 -81.9067 -22.2069 -17.3237 -9.54093 0 0 -89.438 -15.7544 100765 94.7534 -23.4072 -4.31297 0 0 -88.177 19.0029 -83.7124 17.3764 -31.5295 10.111 0 0 0 0 0 0 0 0 0 0 
+-89.4285 -161.41 -22.2069 -38.4159 -9.54093 -13.571 0 0 -15.7544 -34.0347 94.7534 100338 -4.31297 -7.96645 0 0 19.0029 -34.8279 17.3764 -33.8479 10.111 -13.9977 0 0 0 0 0 0 0 0 0 0 
+0 0 -13.3349 -6.38262 -0.177861 1.15638 -9.96977 5.41577 0 0 -23.4072 -4.31297 69.9338 -7.78787 1.31301 0.300355 0 0 -18.7817 11.4376 -3.75356 2.0413 -1.8219 -1.86793 0 0 0 0 0 0 0 0 
+0 0 -6.38262 -7.08836 1.15638 -2.77008 5.41577 -33.0855 0 0 -4.31297 -7.96645 -7.78787 94.2254 0.300355 1.45326 0 0 11.4376 -18.9703 2.0413 -13.6413 -1.86793 -12.1567 0 0 0 0 0 0 0 0 
+0 0 0 0 3.21092 0.0610575 -8.22228 2.14571 0 0 0 0 1.31301 0.300355 13.9264 -7.29548 0 0 0 0 -5.18113 4.62617 -5.04698 0.162189 0 0 0 0 0 0 0 0 
+0 0 0 0 0.0610575 1.64225 2.14571 -27.7341 0 0 0 0 0.300355 1.45326 -7.29548 61.05 0 0 0 0 4.62617 -17.2779 0.162189 -19.1335 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 -8.15349 -0.04206 -88.177 19.0029 0 0 0 0 180.929 -48.1292 1.8816 0.0349189 0 0 0 0 -83.2723 25.6923 -3.20746 3.44115 0 0 0 0 
+0 0 0 0 0 0 0 0 -0.04206 -28.4601 19.0029 -34.8279 0 0 0 0 -48.1292 107.093 0.0349189 1.93838 0 0 0 0 25.6923 -43.1341 3.44115 -2.60907 0 0 0 0 
+0 0 0 0 0 0 0 0 -5.69865 -1.22676 -83.7124 17.3764 -18.7817 11.4376 0 0 1.8816 0.0349189 211.845 -56.8805 -9.21141 0.512808 0 0 -87.7454 27.6217 -7.12937 4.20698 -1.44723 -3.08314 0 0 
+0 0 0 0 0 0 0 0 -1.22676 -24.7818 17.3764 -33.8479 11.4376 -18.9703 0 0 0.0349189 1.93838 -56.8805 131.505 0.512808 -1.78412 0 0 27.6217 -44.5307 4.20698 -5.88237 -3.08314 -3.64576 0 0 
+0 0 0 0 0 0 0 0 0 0 -31.5295 10.111 -3.75356 2.0413 -5.18113 4.62617 0 0 -9.21141 0.512808 95.5878 -23.7337 -0.191733 -0.068963 0 0 -34.7958 10.3386 -2.96769 2.86515 -7.95692 -6.69242 
+0 0 0 0 0 0 0 0 0 0 10.111 -13.9977 2.0413 -13.6413 4.62617 -17.2779 0 0 0.512808 -1.78412 -23.7337 86.6264 -0.068963 1.26508 0 0 10.3386 -14.7718 2.86515 -6.57966 -6.69242 -19.8389 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.8219 -1.86793 -5.04698 0.162189 0 0 0 0 -0.191733 -0.068963 20.2892 -1.7035 0 0 0 0 -7.58715 5.47795 -5.64141 -1.99974 
+0 0 0 0 0 0 0 0 0 0 0 0 -1.86793 -12.1567 0.162189 -19.1335 0 0 0 0 -0.068963 1.26508 -1.7035 56.2862 0 0 0 0 5.47795 -6.44367 -1.99974 -19.8175 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -83.2723 25.6923 -87.7454 27.6217 0 0 0 0 100213 -62.6982 -42.011 9.38418 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25.6923 -43.1341 27.6217 -44.5307 0 0 0 0 -62.6982 100104 9.38418 -16.8188 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.20746 3.44115 -7.12937 4.20698 -34.7958 10.3386 0 0 -42.011 9.38418 105.504 -26.6862 -18.3608 -0.684793 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.44115 -2.60907 4.20698 -5.88237 10.3386 -14.7718 0 0 9.38418 -16.8188 -26.6862 44.9151 -0.684793 -4.83303 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.44723 -3.08314 -2.96769 2.86515 -7.58715 5.47795 0 0 -18.3608 -0.684793 43.0362 0.151589 -12.6733 -4.72675 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -3.08314 -3.64576 2.86515 -6.57966 5.47795 -6.44367 0 0 -0.684793 -4.83303 0.151589 27.7216 -4.72675 -6.21951 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -7.95692 -6.69242 -5.64141 -1.99974 0 0 0 0 -12.6733 -4.72675 100026 13.4189 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -6.69242 -19.8389 -1.99974 -19.8175 0 0 0 0 -4.72675 -6.21951 13.4189 100046 
+
+ psd: 1
+iter: 11   obj = 3028.42   ||lambda||^2 = 1.13616e-17   n_projection_steps = 0
+/Users/xiazixuan/Desktop/CS_Self_Learning/Course_in_Bern/Applied_Optimizaton/Exercise11/aopt-exercise11/InteriorPoint/unit_tests.cc:211: Failure
+The difference between final_energy and expected_final_energy is 225.43373529254131, which exceeds 1e-6, where
+final_energy evaluates to 3028.415772911997,
+expected_final_energy evaluates to 3253.8495082045383, and
+1e-6 evaluates to 9.9999999999999995e-07.
+[0;31m[  FAILED  ] [mInteriorPointMethod.CheckMinimum (4 ms)
+[0;32m[----------] [m1 test from InteriorPointMethod (4 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (4 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+[0;31m[  FAILED  ] [m1 test, listed below:
+[0;31m[  FAILED  ] [mInteriorPointMethod.CheckMinimum
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"InteriorPointMethod.CheckMinimum" end time: Dec 15 14:48 CET
+"InteriorPointMethod.CheckMinimum" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 15 14:48 CET
